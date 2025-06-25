@@ -1,0 +1,73 @@
+import sys
+from awsglue.transforms import *
+from awsglue.utils import getResolvedOptions
+from pyspark.context import SparkContext
+from awsglue.context import GlueContext
+from awsglue.job import Job
+from awsglue.dynamicframe import DynamicFrameCollection
+from awsgluedq.transforms import EvaluateDataQuality
+from awsglue.dynamicframe import DynamicFrame
+from pyspark.sql.functions import col, lower
+
+# Script generated for node Custom Transform
+def MyTransform(glueContext, dfc) -> DynamicFrameCollection:
+    df = dfc.select(list(dfc.keys())[0]).toDF()
+    
+    # Complete TLD regex from your list
+    tlds = (
+        "aero|ai|app|arpa|art|asia|biz|blog|cat|club|com|coop|dev|edu|"
+        "geo|gov|info|int|io|jobs|me|mil|mobi|museum|name|net|online|"
+        "org|page|post|pro|shop|site|store|tech|tel|travel|web|xxx|tv|us|vc"
+    )
+
+    # Match if TLD is at the end of domain (with optional trailing slash or path)
+    filtered_df = df.filter(
+        (col("url_host_name").isNotNull()) &
+        lower(col("url_host_name")).rlike(rf"\.({tlds})(/|$)")
+    )
+
+    dyf_filtered = DynamicFrame.fromDF(filtered_df, glueContext, "filtered_df")
+    return DynamicFrameCollection({"CustomTransform0": dyf_filtered}, glueContext)
+args = getResolvedOptions(sys.argv, ['JOB_NAME'])
+sc = SparkContext()
+glueContext = GlueContext(sc)
+spark = glueContext.spark_session
+job = Job(glueContext)
+job.init(args['JOB_NAME'], args)
+
+# Default ruleset used by all target nodes with data quality enabled
+DEFAULT_DATA_QUALITY_RULESET = """
+    Rules = [
+        ColumnCount > 0
+    ]
+"""
+# Reading data from doamins which contains all data 
+
+AmazonS3_node1750308136322 = glueContext.create_dynamic_frame.from_options(format_options={"quoteChar": "\"", "withHeader": True, "separator": ",", "optimizePerformance": False}, connection_type="s3", format="csv", connection_options={"paths": ["s3://commoncrawlertipsdata/domains/"], "recurse": True}, transformation_ctx="AmazonS3_node1750308136322")
+
+# Reading data from existing data which contains the url we already have 
+
+AmazonS3_node1750307847269 = glueContext.create_dynamic_frame.from_options(format_options={"quoteChar": "\"", "withHeader": False, "separator": ",", "optimizePerformance": False}, connection_type="s3", format="csv", connection_options={"paths": ["s3://commoncrawlertipsdata/Existing-data/"], "recurse": True}, transformation_ctx="AmazonS3_node1750307847269")
+
+#selecting only desired columns 
+ChangeSchema_node1750308188835 = ApplyMapping.apply(frame=AmazonS3_node1750308136322, mappings=[("url_host_name", "string", "url_host_name", "string")], transformation_ctx="ChangeSchema_node1750308188835")
+
+ChangeSchema_node1750308180886 = ApplyMapping.apply(frame=AmazonS3_node1750307847269, mappings=[("col0", "string", "col0", "string")], transformation_ctx="ChangeSchema_node1750308180886")
+
+#Transforming the data as per US websites 
+CustomTransform_node1750308695617 = MyTransform(glueContext, DynamicFrameCollection({"ChangeSchema_node1750308188835": ChangeSchema_node1750308188835}, glueContext))
+
+SelectFromCollection_node1750308714629 = SelectFromCollection.apply(dfc=CustomTransform_node1750308695617, key=list(CustomTransform_node1750308695617.keys())[0], transformation_ctx="SelectFromCollection_node1750308714629")
+
+SelectFromCollection_node1750308714629DF = SelectFromCollection_node1750308714629.toDF()
+ChangeSchema_node1750308180886DF = ChangeSchema_node1750308180886.toDF()
+Join_node1750308377191 = DynamicFrame.fromDF(SelectFromCollection_node1750308714629DF.join(ChangeSchema_node1750308180886DF, (SelectFromCollection_node1750308714629DF['url_host_name'] == ChangeSchema_node1750308180886DF['col0']), "leftanti"), glueContext, "Join_node1750308377191")
+
+EvaluateDataQuality().process_rows(frame=Join_node1750308377191, ruleset=DEFAULT_DATA_QUALITY_RULESET, publishing_options={"dataQualityEvaluationContext": "EvaluateDataQuality_node1750307829104", "enableDataQualityResultsPublishing": True}, additional_options={"dataQualityResultsPublishing.strategy": "BEST_EFFORT", "observations.scope": "ALL"})
+if (Join_node1750308377191.count() >= 50):
+   Join_node1750308377191 = Join_node1750308377191.coalesce(37)
+   
+#writing into s3 bucket
+AmazonS3_node1750308901873 = glueContext.write_dynamic_frame.from_options(frame=Join_node1750308377191, connection_type="s3", format="csv", connection_options={"path": "s3://commoncrawlertipsdata/newdata/", "partitionKeys": []}, transformation_ctx="AmazonS3_node1750308901873")
+
+job.commit()

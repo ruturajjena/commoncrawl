@@ -1,0 +1,776 @@
+sub_subcategory_id,sub_subcategory_name,category_id,category_name,deal_id,sic,sic_description,sic_6_digit,sic_6_digit_description,SIC 8-digit,8_digit_Description,naics,naics_description
+394,Adult Entertainment,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Adult Entertainment,79220105.0,Entertainment promotion,713990,All Other Amusement and Recreation Industries
+378,Amusement Parks,6,Arts & Entertainment,11,7996,Amusement Parks,799600,Amusement Parks,79960000.0,Amusement parks,713110,Amusement and Theme Parks
+396,Arcades,6,Arts & Entertainment,11,7993,Coin-Operated Amusement Devices,799300,Arcades,79930300.0,Arcades,713120,Amusement Arcades
+395,Art Centers,6,Arts & Entertainment,11,8412,Museums and Art Galleries,841200,Art Centers,22730300.0,Art squares,712120,Historical Sites
+397,Art Galleries,6,Arts & Entertainment,11,8412,Museums and Art Galleries,841200,Art Galleries,84120000.0,Museums and art galleries,712110,Museums
+398,Artist Studios,6,Arts & Entertainment,11,7389,Business Services NEC,738900,Artist Studios,89990101.0,Artist,711510,"Independent Artists, Writers, and Performers"
+399,Bars & Nightclubs,6,Arts & Entertainment,11,5813,Drinking Places,581300,Bars & Nightclubs,20439905.0,"Granola and muesli, except bars and clusters",722410,Drinking Places (Alcoholic Beverages)
+400,Bingo Halls,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Bingo Halls,79990801.0,Bingo hall,713290,Other Gambling Industries
+379,Bowling,6,Arts & Entertainment,11,7933,Bowling Centers,793300,Bowling,17990101.0,Bowling alley installation,713950,Bowling Centers
+380,Casino/Gaming,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Casino/Gaming,70110301.0,Casino hotel,713210,Casinos (except Casino Hotels)
+381,Comedy Clubs,6,Arts & Entertainment,2,7922,Theatrical producers and services,792212,Comedy Clubs,24991400.0,"Mallets, hammers, and clubs: wood",711310,"Promoters of performing arts, sports, and similar events"
+401,Community Centers,6,Arts & Entertainment,11,8641,"Civic, Social, and Fraternal Associations",864100,Community Centers,65120204.0,"Shopping center, community (100,000-300,000 sq. ft.)",624120,Services for the Elderly and Persons with Disabilities
+382,Concert Halls,6,Arts & Entertainment,2,7922,The SIC code 7922 corresponds to the category of Arts & Entertainment and specifically to Concert Halls.,799913,Concert Halls,79229902.0,Concert management service,711310,"Promoters of Performing Arts, Sports, and Similar Events"
+402,Concert Venues,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Concert Venues,79229902.0,Concert management service,711310,"Promoters of Performing Arts, Sports, and Similar Events"
+403,Craft Studios,6,Arts & Entertainment,11,7389,Business Services NEC,738900,Craft Studios,37320106.0,"Tenders (small motor craft), building and repairing",711510,"Independent Artists, Writers, and Performers"
+404,Cultural Centers,6,Arts & Entertainment,11,8412,Museums and Art Galleries,841200,Cultural Centers,86990202.0,"Literary, film or cultural club",712120,Historical Sites
+383,Dance Companies,6,Arts & Entertainment,3,7911,"Dance Studios, Schools, and Halls",792209,Dance Companies,79110101.0,Dance hall or ballroom operation,711120,Dance Companies
+393,Escape Rooms,6,Arts & Entertainment,10,7993,Amusement and recreation services,799340,Escape Rooms,17999914.0,Fire escape installation,713990,All Other Amusement and Recreation Industries
+405,Event Venues,6,Arts & Entertainment,11,7389,Business Services NEC,738900,Event Venues,79410200.0,Stadium event operator services,531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+406,Filming Locations,6,Arts & Entertainment,11,7819,Services Allied to Motion Picture Production,781900,Filming Locations,73420103.0,Washroom sanitation service (industrial locations),512199,Other Motion Picture and Video Industries
+407,Gaming Centers,6,Arts & Entertainment,11,7993,Coin-Operated Amusement Devices,799300,Gaming Centers,22989901.0,Wire rope centers,713120,Amusement Arcades
+408,Go Kart Tracks,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Go Kart Tracks,37280306.0,"Landing skis and tracks, aircraft",713990,All Other Amusement and Recreation Industries
+409,Jazz Clubs,6,Arts & Entertainment,11,5813,Drinking Places,581300,Jazz Clubs,48320107.0,Jazz,722410,Drinking Places (Alcoholic Beverages)
+410,Karaoke,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Karaoke,79990000.0,"Amusement and recreation, nec",713990,All Other Amusement and Recreation Industries
+411,Laser Tag,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Laser Tag,36529901.0,"Compact laser discs, prerecorded",713990,All Other Amusement and Recreation Industries
+412,Libraries,6,Arts & Entertainment,11,8231,Libraries,823100,Libraries,82310000.0,Libraries,519120,Libraries and Archives
+413,Live Music,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Live Music,42120103.0,Live poultry haulage,711130,Musical Groups and Artists
+414,Magic Shows,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Magic Shows,39449910.0,Magic lanterns (toys),711510,"Independent Artists, Writers, and Performers"
+384,Movie Theaters,6,Arts & Entertainment,11,7832,Motion Picture Theaters,783200,Movie Theaters,73359902.0,"Color separation, photographic and movie film",512131,Motion Picture Theaters (except Drive-Ins)
+385,Museums,6,Arts & Entertainment,5,8412,Museums and Art Galleries,841200,Museums,84120000.0,Museums and art galleries,712110,Museums
+415,Music Halls,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Music Halls,39310102.0,Autophones (organs with perforated music rolls),711310,"Promoters of Performing Arts, Sports, and Similar Events"
+386,Music Venues,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Music Venues,39310102.0,Autophones (organs with perforated music rolls),711310,"Promoters of Performing Arts, Sports, and Similar Events"
+416,Night Markets,6,Arts & Entertainment,11,5999,Miscellaneous Retail Stores NEC,599999,Night Markets,54210000.0,Meat and fish markets,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores)
+387,Opera,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Opera,23539909.0,Opera hats,711130,Musical Groups and Artists
+388,Orchestra,6,Arts & Entertainment,7,7389,Professional orchestras and opera companies,713940,Opera Companies,23539909.0,Opera hats,711130,Musical Groups and Artists
+417,Paintball,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Paintball,79990000.0,"Amusement and recreation, nec",713990,All Other Amusement and Recreation Industries
+389,Performing Arts,6,Arts & Entertainment,11,7929,"Bands, Orchestras, Actors, and Other Entertainers and Entertainment Groups",792900,Performing Arts,79220203.0,Performing arts center production,711110,Theater Companies and Dinner Theaters
+418,Photography Studios,6,Arts & Entertainment,11,7221,"Photographic Studios, Portrait",722100,Photography Studios,48999902.0,Missile tracking by telemetry and photography,541921,"Photography Studios, Portrait"
+390,Planetariums,6,Arts & Entertainment,8,8422,Arboreta and botanical or zoological gardens,842200,Planetariums,79960000.0,Amusement parks,712190,Nature Parks and Other Similar Institutions
+419,Recording Studios,6,Arts & Entertainment,11,7389,Business Services NEC,738900,Recording Studios,36510117.0,"Recording machines, except dictation and telephone answering",512240,Sound Recording Studios
+391,Theater,6,Arts & Entertainment,11,7922,"Theatrical Producers (except Motion Picture), Bands, Orchestras, and Entertainers",792200,Theater,50210110.0,Theater seats,711110,Theater Companies and Dinner Theaters
+420,Trampoline Parks,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Trampoline Parks,79999917.0,Trampoline operation,713990,All Other Amusement and Recreation Industries
+421,Virtual Reality,6,Arts & Entertainment,11,7999,Amusement and Recreation Services NEC,799900,Virtual Reality,79990000.0,"Amusement and recreation, nec",713990,All Other Amusement and Recreation Industries
+392,Zoos & Aquariums,6,Arts & Entertainment,9,8422,Arboreta and botanical or zoological gardens,842200,Zoos & Aquariums,84220100.0,Aquariums and zoological gardens,712130,Zoos and Botanical Gardens
+213,Accessory/Audio,3,Automotive,11,5531,Auto and Home Supply Stores,553199,Accessory/Audio,36510102.0,Audio electronic systems,441310,Automotive Parts and Accessories Stores
+209,Auto Specialty Repair,3,Automotive,11,7549,Automotive Services NEC,754900,Auto Specialty Repair,75390101.0,Auto front end repair,811198,All Other Automotive Repair and Maintenance
+189,Autoparts/Aftermarket,3,Automotive,11,5531,Auto and Home Supply Stores,553110,Automotive Parts and Accessories Stores,35850507.0,"Soda fountains, parts, and accessories",441310,Automotive Parts and Accessories Stores
+207,Boating,3,Automotive,11,5551,Boat Dealers,555100,Boating,79970202.0,"Boating club, membership",441222,Boat Dealers
+190,Body Shop,3,Automotive,11,7532,"Top, Body, and Upholstery Repair Shops",753210,Automotive Body Shops,75320404.0,"Collision shops, automotive",811121,"Automotive Body, Paint, and Interior Repair and Maintenance"
+191,Car Wash,3,Automotive,11,7542,Car Washes,754200,Car Wash,28999909.0,Core wash or wax,811192,Car Washes
+214,Custom Auto,3,Automotive,11,7532,"Top, Body, and Upholstery Repair Shops",753299,Custom Auto,20999916.0,"Sorghum, including custom refining",811121,"Automotive Body, Paint, and Interior Repair and Maintenance"
+192,Dealers,3,Automotive,11,5511,Motor Vehicle Dealers (New and Used),551100,Auto Dealers,55510000.0,Boat dealers,441110,New Car Dealers
+215,Detailing,3,Automotive,11,7542,Car Washes,754200,Detailing,47890203.0,Sleeping car and other passenger car services,811192,Car Washes
+210,Fleet Service,3,Automotive,11,7538,General Automotive Repair Shops,753800,Fleet Service,7220105.0,Threshing service,811111,General Automotive Repair
+193,Gas Station,3,Automotive,11,5541,Gasoline Service Stations,554100,Gas Station,16230102.0,Natural gas compressor station construction,447110,Gasoline Stations with Convenience Stores
+194,General Repair,3,Automotive,11,7538,General Automotive Repair Shops,753800,General Automotive Repair,75380000.0,General automotive repair shops,811111,General Automotive Repair
+195,Glass Repair,3,Automotive,11,7536,Automotive Glass Replacement Shops,753600,Auto Glass Repair,76991802.0,China and glass repair,811122,Automotive Glass Replacement Shops
+196,Lube/Oil Change,3,Automotive,11,7549,Automotive Services NEC,754900,Lube/Oil Change,1190300.0,Oil grains,811191,Automotive Oil Change and Lubrication Shops
+211,Mobile Detailing,3,Automotive,11,7542,Car Washes,754200,Mobile Detailing,24510202.0,Mobile classrooms,811192,Car Washes
+197,Motorcycle Associations & Clubs,3,Automotive,11,7997,This category includes establishments primarily engaged in promoting the interests of their members involved with motorcycles and other motor vehicles.,799720,Motorcycle Associations & Clubs,60369901.0,"Savings and loan associations, not federally chartered",813910,Business Associations
+198,Motorcycle Dealers,3,Automotive,11,5571,Establishments primarily engaged in the retail sale of new and used motorcycles.,557140,Motorcycle Dealers,55710000.0,Motorcycle dealers,441210,"This industry comprises establishments primarily engaged in retailing new and/or used motorcycles, motor scooters, motorbikes, mopeds, off-road all-terrain vehicles, and personal watercraft."
+216,New Car Dealers,3,Automotive,11,5511,Motor Vehicle Dealers (New and Used),551100,New Car Dealers,55110000.0,New and used car dealers,441110,New Car Dealers
+199,Parking,3,Automotive,11,7521,Automobile Parking,752100,Parking,17710300.0,"Driveway, parking lot, and blacktop contractors",812930,Parking Lots and Garages
+208,Rental Cars,3,Automotive,11,7514,Passenger Car Rental,751400,Rental Cars,47410000.0,Rental of railroad cars,532111,Passenger Car Rental
+200,RV Associations,3,Automotive,11,8661,Automotive Associations,866150,RV Associations,60369901.0,"Savings and loan associations, not federally chartered",813910,"Business Associations (Automotive, RV)"
+201,RV Dealers,3,Automotive,11,5561,Recreational Vehicle Dealers,556100,RV Dealers,55510000.0,Boat dealers,441210,Recreational Vehicle Dealers
+212,Seat Covers,3,Automotive,11,7531,"Top, Body, and Upholstery Repair Shops",753199,Seat Covers,23999910.0,"Seat covers, automobile",811121,"Automotive Body, Paint, and Interior Repair and Maintenance"
+202,Smog/Emissions,3,Automotive,11,7549,Automotive Services NEC,754900,Smog/Emissions,75490101.0,"Emissions testing without repairs, automotive",811198,All Other Automotive Repair and Maintenance
+203,Tire,3,Automotive,11,7534,Tire Retreading and Repair Shops,753400,Tire,22960000.0,Tire cord and fabrics,811198,All Other Automotive Repair and Maintenance
+204,Towing,3,Automotive,11,7549,Automotive Services NEC,754900,Towing,44499902.0,Log rafting and towing,488410,Motor Vehicle Towing
+205,Transport,3,Automotive,11,4213,"Trucking, Except Local",421300,Transport,37310207.0,"Transport vessels, troop: building and repairing",484110,"General Freight Trucking, Local"
+206,Used Car,3,Automotive,11,5521,Motor Vehicle Dealers (Used Only),552100,Used Car,55210000.0,Used car dealers,441120,Used Car Dealers
+436,Accounting,7,B 2 B,11,8721,"Accounting, Auditing, and Bookkeeping Services",872100,Accounting,35780100.0,Accounting machines and cash registers,541211,Offices of Certified Public Accountants
+460,Advertising Agencies,7,B 2 B,11,7311,Advertising Agencies,731100,Advertising Agencies,73110000.0,Advertising agencies,541810,Advertising Agencies
+437,Appraisers,7,B 2 B,11,6531,Real Estate Agents and Managers,653199,Appraisers,73891401.0,"Appraisers, except real estate",531320,Offices of Real Estate Appraisers
+438,Architecture/Engineers,7,B 2 B,11,8712,Architectural Services,871200,Architecture/Engineers,87110100.0,Sanitary engineers,541310,Architectural Services
+461,Asset Based Lending,7,B 2 B,11,6159,Miscellaneous Business Credit Institutions,615900,Asset Based Lending,82310303.0,Lending library,522298,All Other Non-Depository Credit Intermediation
+439,Attorneys,7,B 2 B,11,8111,Legal Services,811100,Attorneys,92220102.0,District attorneys' office,541110,Offices of Lawyers
+462,Banking Services,7,B 2 B,11,6021,National Commercial Banks,602100,Banking Services,35780300.0,Banking machines,522110,Commercial Banking
+432,Banks,7,B 2 B,11,6021,National Commercial Banks,602100,Banks,61110201.0,Banks for cooperatives,522110,Commercial Banking
+423,Bill Boards/Outdoor,7,B 2 B,11,7311,Advertising Agencies,731140,Bill Boards/Outdoor,24939901.0,"Bulletin boards, cork",541850,Outdoor Advertising
+422,Bookkeeping Services,7,B 2 B,11,8721,Bookkeeping services,872110,Bookkeeping Services,87219901.0,Billing and bookkeeping service,541219,Other Accounting Services
+440,Business Brokers,7,B 2 B,11,6531,Real Estate Agents and Managers,653199,Business Brokers,73891701.0,"Brokers, business: buying and selling business enterprises",531210,Offices of Real Estate Agents and Brokers
+426,Business Valuation Specialists,7,B 2 B,11,7389,"Business Services, NEC",738990,Business Valuation Specialists,26210601.0,Business form paper,541211,Offices of Certified Public Accountants
+463,Call Centers,7,B 2 B,11,7389,Business Services NEC,738900,Call Centers,22989901.0,Wire rope centers,561422,Telephone Call Centers
+464,Collections,7,B 2 B,11,7322,Adjustment and Collection Services,732200,Collections,73110000.0,Advertising agencies,561440,Collection Agencies
+465,Commercial Banking,7,B 2 B,11,6021,National Commercial Banks,602100,Commercial Banking,35780300.0,Banking machines,522110,Commercial Banking
+466,Commercial Real Estate,7,B 2 B,11,6531,Real Estate Agents and Managers,653100,Commercial Real Estate,65310104.0,"Real estate agent, commercial",531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+441,Consulting,7,B 2 B,11,8748,Business Consulting Services NEC,874800,Consulting,87119903.0,Consulting engineer,541611,Administrative Management and General Management Consulting Services
+467,Credit Repair,7,B 2 B,11,7299,Miscellaneous Personal Services,729900,Credit Repair,35780105.0,"Registers, credit account",522298,All Other Non-Depository Credit Intermediation
+424,Data-Marketing/Leads,7,B 2 B,11,7389,"Business Services, NEC",738910,Data-Marketing/Leads,35550303.0,"Leads, printers'",541613,Marketing Consulting Services
+442,Dentist/Medical,7,B 2 B,11,8021,Offices and Clinics of Dentists,802100,Dentist/Medical,30690100.0,Medical and laboratory rubber sundries and related products,621210,Offices of Dentists
+425,Direct Mail,7,B 2 B,11,7331,Direct Mail Advertising Services,733110,Direct Mail,73310000.0,Direct mail advertising services,541860,Direct Mail Advertising
+468,Equipment Financing,7,B 2 B,11,6159,Miscellaneous Business Credit Institutions,615900,Equipment Financing,61530100.0,Working capital financing,522220,Sales Financing
+469,Equipment Leasing,7,B 2 B,11,7359,Equipment Rental and Leasing NEC,735900,Equipment Leasing,73590103.0,Laundry equipment leasing,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+427,Factoring,7,B 2 B,11,6159,Miscellaneous business credit institutions,615900,Factoring,61530200.0,Factoring services,522298,All Other Non-Depository Credit Intermediation
+443,Financial Services,7,B 2 B,11,6211,"Security Brokers, Dealers, and Flotation Companies",621100,Financial Services,73890900.0,Financial services,523120,Securities Brokerage
+470,Freight/Transportation,7,B 2 B,11,4213,"Trucking, Except Local",421300,Freight/Transportation,44320000.0,Freight transportation on the great lakes,484110,"General Freight Trucking, Local"
+444,Human Resources,7,B 2 B,11,8999,Services NEC,899900,Human Resources,94410200.0,Administration of social and human resources,541612,Human Resources Consulting Services
+433,Insurance,7,B 2 B,11,6411,"Insurance Agents, Brokers, and Service",641100,Insurance,63110000.0,Life insurance,524210,Insurance Agencies and Brokerages
+471,Insurance Agencies,7,B 2 B,11,6411,"Insurance Agents, Brokers, and Service",641100,Insurance Agencies,60810000.0,Foreign bank and branches and agencies,524210,Insurance Agencies and Brokerages
+434,Investment Services,7,B 2 B,11,6282,Investment Advice,628200,Investment Services,33240000.0,Steel investment foundries,523930,Investment Advice
+472,Janitorial Services,7,B 2 B,11,7349,Building Cleaning and Maintenance Services NEC,734900,Janitorial Services,45810201.0,Aircraft cleaning and janitorial service,561720,Janitorial Services
+473,Legal Services,7,B 2 B,11,8111,Legal Services,811100,Legal Services,81110000.0,Legal services,541110,Offices of Lawyers
+445,Logistic/Shipping,7,B 2 B,11,4731,Arrangement of Transportation of Freight and Cargo,473100,Logistic/Shipping,24410203.0,"Shipping cases, wood: nailed or lock corner",488510,Freight Transportation Arrangement
+446,Manufacturing,7,B 2 B,11,3999,Manufacturing Industries NEC,399900,Manufacturing,24119904.0,Stumping for turpentine or powder manufacturing,333999,All Other Miscellaneous General Purpose Machinery Manufacturing
+429,Marketing - Advertising,7,B 2 B,11,7311,Advertising Agencies,731100,Marketing - Advertising,27520201.0,"Advertising posters, lithographed",541810,Advertising Agencies
+474,Merchant Services,7,B 2 B,11,7389,Business Services NEC,738900,Merchant Services,72190104.0,"Tailor shop, except custom or merchant tailor",522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities"
+475,Office Equipment,7,B 2 B,11,5044,Office Equipment,504400,Office Equipment,36610108.0,"Telephone central office equipment, dial or manual",423420,Office Equipment Merchant Wholesalers
+447,Office Services,7,B 2 B,11,7389,Business Services NEC,738900,Office Services,25210100.0,"Wood office chairs, benches and stools",561110,Office Administrative Services
+428,Payroll Service - PEO's,7,B 2 B,11,7361,"Employment Agencies, Temporary Help Services",736110,Payroll Service - PEO's,87210202.0,Payroll accounting service,561330,Professional Employer Organizations
+476,Printing Services,7,B 2 B,11,2752,"Commercial Printing, Lithographic",275200,Printing Services,22610100.0,Printing of cotton broadwoven fabrics,323111,Commercial Printing (except Screen and Books)
+448,Property Management,7,B 2 B,11,6531,Real Estate Agents and Managers,653100,Property Management,65120201.0,"Shopping center, property operation only",531311,Residential Property Managers
+449,Public Relations,7,B 2 B,11,8743,Public Relations Services,874300,Public Relations,87439903.0,Public relations and publicity,541820,Public Relations Agencies
+435,Realtors,7,B 2 B,11,6531,Real Estate Agents and Managers,653100,Realtors,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+450,Recruitment/Staffing,7,B 2 B,11,7361,Employment Agencies,736100,Recruitment/Staffing,73610100.0,Placement agencies,561311,Employment Placement Agencies
+451,SBA Loans,7,B 2 B,11,6159,Miscellaneous Business Credit Institutions,615900,SBA Loans,61410101.0,"Automobile loans, including insurance",522293,International Trade Financing
+452,Security Services,7,B 2 B,11,7381,"Detective, Guard, and Armored Car Services",738100,Security Services,62899900.0,"Security and commodity services, nec",561612,Security Guards and Patrol Services
+453,Software/Hardware,7,B 2 B,11,7372,Prepackaged Software,737200,Software/Hardware,50450000.0,"Computers, peripherals, and software",541511,Custom Computer Programming Services
+454,Tax Services,7,B 2 B,11,7291,Tax Return Preparation Services,729100,Tax Services,73891300.0,Legal and tax services,541213,Tax Preparation Services
+477,Technology Services,7,B 2 B,11,7371,Computer Programming Services,737100,Technology Services,73790203.0,Online services technology consultants,541511,Custom Computer Programming Services
+478,Telecommunications,7,B 2 B,11,4813,"Telephone Communications, Except Radiotelephone",481300,Telecommunications,87480302.0,Telecommunications consultant,517110,Wired Telecommunications Carriers
+479,Temporary Employment,7,B 2 B,11,7363,Help Supply Services,736300,Temporary Employment,73610102.0,Labor contractors (employment agency),561320,Temporary Help Services
+455,Training/Coaching,7,B 2 B,11,8299,Schools and Educational Services NEC,829900,Training/Coaching,37280501.0,Link trainers (aircraft training mechanisms),611430,Professional and Management Development Training
+456,Translation Services,7,B 2 B,11,7389,Business Services NEC,738900,Translation Services,73899953.0,Translation services,541930,Translation and Interpretation Services
+457,Travel/Tourism,7,B 2 B,11,4724,Travel Agencies,472400,Travel/Tourism,37920000.0,Travel trailers and campers,561510,Travel Agencies
+430,Video/Photography,7,B 2 B,11,7221,"Photographic Studios, Portrait",722100,Video/Photography,39440203.0,"Video game machines, except coin-operated",541921,"Photography Studios, Portrait"
+458,Waste Management,7,B 2 B,11,4953,Refuse Systems,495300,Waste Management,95110200.0,Waste management agencies,562111,Solid Waste Collection
+431,Web/IT Services,7,B 2 B,11,7371,Computer Programming Services,737100,Web/IT Services,34419906.0,"Joists, open web steel: long-span series",541511,Custom Computer Programming Services
+459,Wholesale Distribution,7,B 2 B,11,5099,Durable Goods NEC,509900,Wholesale Distribution,36120100.0,Power and distribution transformers,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+704,Asset Management,15,Broker Services,11,6282,Investment Advice,628200,Asset Management,9710101.0,Game management,523920,Portfolio Management
+705,Business Brokerage,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Business Brokerage,26210601.0,Business form paper,531210,Offices of Real Estate Agents and Brokers
+713,Business Consulting,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Business Consulting,87480000.0,"Business consulting, nec",541611,Administrative Management and General Management Consulting Services
+714,Business Evaluation,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Business Evaluation,26210601.0,Business form paper,541611,Administrative Management and General Management Consulting Services
+717,Business Transfer,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Business Transfer,26720110.0,"Transfer paper, gold or silver: from purchased materials",531210,Offices of Real Estate Agents and Brokers
+698,Buyer Representation,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Buyer Representation,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+718,Confidential Marketing,15,Broker Services,11,7311,Advertising Agencies,731100,Confidential Marketing,61119906.0,Student Loan Marketing Association,541810,Advertising Agencies
+706,Consulting Services,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Consulting Services,87420300.0,Marketing consulting services,541611,Administrative Management and General Management Consulting Services
+707,Due Diligence,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Due Diligence,87420000.0,Management consulting services,541611,Administrative Management and General Management Consulting Services
+715,Exit Planning,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Exit Planning,7810000.0,Landscape counseling and planning,541611,Administrative Management and General Management Consulting Services
+708,Financial Analysis,15,Broker Services,11,8732,"Commercial Economic, Sociological, and Educational Research",873200,Financial Analysis,38260701.0,Differential thermal analysis instruments,541910,Marketing Research and Public Opinion Polling
+699,Investment Analysis,15,Broker Services,11,6282,Investment Advice,628200,Investment Analysis,38260701.0,Differential thermal analysis instruments,523930,Investment Advice
+700,Listing Services,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Listing Services,65310300.0,Real estate listing services,531210,Offices of Real Estate Agents and Brokers
+701,Market Analysis,15,Broker Services,11,8732,"Commercial Economic, Sociological, and Educational Research",873200,Market Analysis,87320105.0,Market analysis or research,541910,Marketing Research and Public Opinion Polling
+709,Market Research,15,Broker Services,11,8732,"Commercial Economic, Sociological, and Educational Research",873200,Market Research,51999902.0,Anatomical specimens and research material,541910,Marketing Research and Public Opinion Polling
+719,Marketing Services,15,Broker Services,11,7311,Advertising Agencies,731100,Marketing Services,61119906.0,Student Loan Marketing Association,541810,Advertising Agencies
+710,Merger & Acquisition,15,Broker Services,11,6282,Investment Advice,628200,Merger & Acquisition,87320106.0,"Merger, acquisition, and reorganization research",523110,Investment Banking and Securities Dealing
+711,Negotiation Services,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Negotiation Services,7119901.0,Fertilizer application services,541611,Administrative Management and General Management Consulting Services
+702,Seller Representation,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Seller Representation,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+716,Succession Planning,15,Broker Services,11,8748,Business Consulting Services NEC,874800,Succession Planning,7810000.0,Landscape counseling and planning,541611,Administrative Management and General Management Consulting Services
+712,Transaction Management,15,Broker Services,11,6531,Real Estate Agents and Managers,653100,Transaction Management,9710101.0,Game management,531210,Offices of Real Estate Agents and Brokers
+703,Valuation Services,15,Broker Services,11,7389,Business Services NEC,738900,Valuation Services,8519906.0,Timber valuation services,531320,Offices of Real Estate Appraisers
+720,Active,16,Deal Status,11,7389,Business Services NEC,738900,Active,28430000.0,Surface active agents,541990,"All Other Professional, Scientific, and Technical Services"
+735,Approved,16,Deal Status,11,7389,Business Services NEC,738900,Approved,80629907.0,"Hospital, AMA approved residency",541990,"All Other Professional, Scientific, and Technical Services"
+727,Cancelled,16,Deal Status,11,7389,Business Services NEC,738900,Cancelled,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+726,Closed,16,Deal Status,11,7389,Business Services NEC,738900,Closed,17310402.0,Closed circuit television installation,541990,"All Other Professional, Scientific, and Technical Services"
+732,Coming Soon,16,Deal Status,11,7389,Business Services NEC,738900,Coming Soon,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+728,Contingent,16,Deal Status,11,7389,Business Services NEC,738900,Contingent,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+733,Draft,16,Deal Status,11,7389,Business Services NEC,738900,Draft,38230409.0,"Draft gauges, industrial process type",541990,"All Other Professional, Scientific, and Technical Services"
+724,Expired,16,Deal Status,11,7389,Business Services NEC,738900,Expired,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+729,In Escrow,16,Deal Status,11,7389,Business Services NEC,738900,In Escrow,60999904.0,Escrow institutions other than real estate,541990,"All Other Professional, Scientific, and Technical Services"
+737,Modified,16,Deal Status,11,7389,Business Services NEC,738900,Modified,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+730,On Hold,16,Deal Status,11,7389,Business Services NEC,738900,On Hold,44919901.0,Ship hold cleaning,541990,"All Other Professional, Scientific, and Technical Services"
+723,Pending,16,Deal Status,11,7389,Business Services NEC,738900,Pending,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+731,Pre-Market,16,Deal Status,11,7389,Business Services NEC,738900,Pre-Market,59999909.0,"Concrete products, pre-cast",541990,"All Other Professional, Scientific, and Technical Services"
+736,Rejected,16,Deal Status,11,7389,Business Services NEC,738900,Rejected,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+734,Review,16,Deal Status,11,7389,Business Services NEC,738900,Review,86219906.0,Professional standards review board,541990,"All Other Professional, Scientific, and Technical Services"
+721,Sold,16,Deal Status,11,7389,Business Services NEC,738900,Sold,29110305.0,"Oils, partly refined: sold for rerunning",541990,"All Other Professional, Scientific, and Technical Services"
+725,Under Contract,16,Deal Status,11,7389,Business Services NEC,738900,Under Contract,22219905.0,"Textile warping, on a contract basis",541990,"All Other Professional, Scientific, and Technical Services"
+722,Withdrawn,16,Deal Status,11,7389,Business Services NEC,738900,Withdrawn,32310502.0,Scientific and technical glassware: from purchased glass,541990,"All Other Professional, Scientific, and Technical Services"
+590,Adult Education,10,Education,11,8299,Schools and Educational Services NEC,829900,Adult Education,82110301.0,Public adult education school,611710,Educational Support Services
+591,Art Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Art Schools,22730300.0,Art squares,611610,Fine Arts Schools
+592,Beauty Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Beauty Schools,72310200.0,Beauty schools,611511,Cosmetology and Barber Schools
+593,Charter Schools,10,Education,11,8211,Elementary and Secondary Schools,821100,Charter Schools,45220100.0,Nonscheduled charter services,611110,Elementary and Secondary Schools
+583,Colleges/Universities,10,Education,11,8221,"Colleges, Universities, and Professional Schools",822100,Colleges/Universities,82210000.0,Colleges and universities,611310,"Colleges, Universities, and Professional Schools"
+594,Continuing Education,10,Education,11,8299,Schools and Educational Services NEC,829900,Continuing Education,87449901.0,Base maintenance (providing personnel on continuing basis),611710,Educational Support Services
+595,Culinary Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Culinary Schools,82210200.0,Professional schools,611519,Other Technical and Trade Schools
+596,Day Care Centers,10,Education,11,8351,Child Day Care Services,835100,Day Care Centers,83519901.0,Group day care center,624410,Child Day Care Services
+597,Driving Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Driving Schools,16299904.0,Pile driving contractor,611692,Automobile Driving Schools
+584,Elementary/Middle School,10,Education,11,8211,Elementary and Secondary Schools,821100,Elementary/Middle School,82110101.0,Catholic combined elementary and secondary school,611110,Elementary and Secondary Schools
+585,High Schools,10,Education,11,8211,Elementary and Secondary Schools,821100,High Schools,20260108.0,"Milk, ultra-high temperature (longlife)",611110,Elementary and Secondary Schools
+598,Language Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Language Schools,82990502.0,Language school,611630,Language Schools
+599,Martial Arts Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Martial Arts Schools,79991113.0,"Martial arts school, nec",611620,Sports and Recreation Instruction
+600,Music Schools,10,Education,11,8299,Schools and Educational Services NEC,829900,Music Schools,82990300.0,Music and drama schools,611610,Fine Arts Schools
+601,Nursing Schools,10,Education,11,8221,"Colleges, Universities, and Professional Schools",822100,Nursing Schools,86210103.0,Nursing association,611310,"Colleges, Universities, and Professional Schools"
+602,Online Education,10,Education,11,8299,Schools and Educational Services NEC,829900,Online Education,86219904.0,Education and teacher association,611710,Educational Support Services
+603,Preschools,10,Education,11,8351,Child Day Care Services,835100,Preschools,83510000.0,Child day care services,624410,Child Day Care Services
+586,Private Schools,10,Education,11,8211,Elementary and Secondary Schools,821100,Private Schools,67330101.0,"Administrator of private estates, nonoperating",611110,Elementary and Secondary Schools
+604,Religious Schools,10,Education,11,8211,Elementary and Secondary Schools,821100,Religious Schools,48320203.0,Religious,611110,Elementary and Secondary Schools
+605,Special Education,10,Education,11,8299,Schools and Educational Services NEC,829900,Special Education,82110105.0,Catholic special education school,611710,Educational Support Services
+606,STEM Education,10,Education,11,8299,Schools and Educational Services NEC,829900,STEM Education,86219904.0,Education and teacher association,611710,Educational Support Services
+607,Technical Schools,10,Education,11,8249,Vocational Schools NEC,824900,Technical Schools,27410600.0,Technical manual and paper publishing,611519,Other Technical and Trade Schools
+608,Test Preparation,10,Education,11,8299,Schools and Educational Services NEC,829900,Test Preparation,10110200.0,Iron ore preparation,611691,Exam Preparation and Tutoring
+587,Trade Schools,10,Education,11,8249,Vocational Schools NEC,824900,Trade Schools,20999915.0,"Potatoes, peeled for the trade",611519,Other Technical and Trade Schools
+609,Training Centers,10,Education,11,8299,Schools and Educational Services NEC,829900,Training Centers,37280501.0,Link trainers (aircraft training mechanisms),611430,Professional and Management Development Training
+588,Tutoring Centers,10,Education,11,8299,Schools and Educational Services NEC,829900,Tutoring Centers,22989901.0,Wire rope centers,611691,Exam Preparation and Tutoring
+589,Vocational Schools,10,Education,11,8249,Vocational Schools NEC,824900,Vocational Schools,82490000.0,"Vocational schools, nec",611519,Other Technical and Trade Schools
+692,Area Developer,14,Franchise,11,6794,Patent Owners and Lessors,679400,Area Developer,36480103.0,Decorative area lighting fixtures,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+687,Business Opportunities,14,Franchise,11,6794,Patent Owners and Lessors,679400,Business Opportunities,26210601.0,Business form paper,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+693,Conversion Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Conversion Franchise,17969901.0,Elevator installation and conversion,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+688,Distributorship,14,Franchise,11,5099,Durable Goods NEC,509900,Distributorship,51990000.0,"Nondurable goods, nec",424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+683,Fast Food Franchise,14,Franchise,11,5812,Eating Places,581200,Fast Food Franchise,58120307.0,"Fast-food restaurant, chain",722513,Limited-Service Restaurants
+684,Food Service Franchise,14,Franchise,11,5812,Eating Places,581200,Food Service Franchise,17999916.0,Food service equipment installation,722513,Limited-Service Restaurants
+678,Franchise,14,Franchise,11,5812,Eating Places,581200,Franchise,58120500.0,Family restaurants,722513,Limited-Service Restaurants
+689,Franchise Opportunities,14,Franchise,11,6794,Patent Owners and Lessors,679400,Franchise Opportunities,70110101.0,"Motel, franchised",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+694,Home-Based Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Home-Based Franchise,20220101.0,"Dips, cheese-based",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+695,Investment Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Investment Franchise,33240000.0,Steel investment foundries,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+690,Licensing,14,Franchise,11,6794,Patent Owners and Lessors,679400,Licensing,67940103.0,"Performance rights, publishing and licensing",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+691,Master Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Master Franchise,48419905.0,Satellite master antenna systems services (SMATV),533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+696,Mobile Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Mobile Franchise,24510202.0,Mobile classrooms,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+679,Multi-Unit,14,Franchise,11,6794,Patent Owners and Lessors,679400,Multi-Unit,12210202.0,"Unit train loading facility, bituminous or lignite",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+697,Online Franchise,14,Franchise,11,6794,Patent Owners and Lessors,679400,Online Franchise,48130200.0,Online service providers,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+680,Regional Developer,14,Franchise,11,6794,Patent Owners and Lessors,679400,Regional Developer,65120202.0,"Shopping center, super-regional (more than 1,000,000 sq ft)",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+685,Retail Franchise,14,Franchise,11,5399,Miscellaneous General Merchandise Stores,539900,Retail Franchise,52610300.0,Retail nurseries,452990,All Other General Merchandise Stores
+686,Service Franchise,14,Franchise,11,7389,Business Services NEC,738900,Service Franchise,7220105.0,Threshing service,541990,"All Other Professional, Scientific, and Technical Services"
+681,Single Unit,14,Franchise,11,6794,Patent Owners and Lessors,679400,Single Unit,12210202.0,"Unit train loading facility, bituminous or lignite",533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+682,Territory,14,Franchise,11,6794,Patent Owners and Lessors,679400,Territory,36749916.0,Transistors,533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)
+634,Agencies/Government,12,Government,11,9199,General Government NEC,919900,Agencies/Government,60810000.0,Foreign bank and branches and agencies,921190,Other General Government Support
+635,City Government,12,Government,11,9121,Legislative Bodies,912100,City Government,91210202.0,City council,921110,Executive Offices
+643,Corrections,12,Government,11,9223,Correctional Institutions,922300,Corrections,38249902.0,Gauges for computing pressure temperature corrections,922140,Correctional Institutions
+636,County Government,12,Government,11,9121,Legislative Bodies,912100,County Government,91110403.0,"Executive offices, County government",921110,Executive Offices
+644,Courts,12,Government,11,9211,Courts,921100,Courts,92110000.0,Courts,922110,Courts
+645,Emergency Services,12,Government,11,9224,Fire Protection,922400,Emergency Services,17310103.0,Standby or emergency power specialization,922160,Fire Protection
+637,Federal Government,12,Government,11,9199,General Government NEC,919900,Federal Government,91110401.0,"Executive offices, Federal government",921110,Executive Offices
+646,Fire Department,12,Government,11,9224,Fire Protection,922400,Fire Department,37110403.0,"Fire department vehicles (motor vehicles), assembly of",922160,Fire Protection
+647,Health Department,12,Government,11,9431,Administration of Public Health Programs,943100,Health Department,37110403.0,"Fire department vehicles (motor vehicles), assembly of",923120,Administration of Public Health Programs
+648,Law Enforcement,12,Government,11,9221,Police Protection,922100,Law Enforcement,92290102.0,"Law enforcement statistics center, government",922120,Police Protection
+649,Libraries,12,Government,11,8231,Libraries,823100,Libraries,82310000.0,Libraries,519120,Libraries and Archives
+638,Military,12,Government,11,9711,National Security,971100,Military,23110302.0,"Military uniforms, men's and youths': purchased materials",928110,National Security
+650,Parks & Recreation,12,Government,11,9512,"Land, Mineral, Wildlife, and Forest Conservation",951200,Parks & Recreation,50120305.0,"Recreation vehicles, all-terrain",712190,Nature Parks and Other Similar Institutions
+651,Planning/Zoning,12,Government,11,9532,Urban Planning and Community Development,953200,Planning/Zoning,7810000.0,Landscape counseling and planning,925120,Administration of Urban Planning and Community and Rural Development
+639,Public Safety,12,Government,11,9221,Police Protection,922100,Public Safety,92290103.0,"Public safety statistics center, government",922120,Police Protection
+652,Public Works,12,Government,11,9621,Regulation and Administration of Transportation Programs,962100,Public Works,15420400.0,Specialized public building contractors,237990,Other Heavy and Civil Engineering Construction
+653,Social Services,12,Government,11,9441,"Administration of Social, Human Resource and Income Maintenance Programs",944100,Social Services,83220700.0,Social services for the handicapped,923130,"Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)"
+640,State Government,12,Government,11,9121,Legislative Bodies,912100,State Government,91110402.0,"Executive offices, State government",921110,Executive Offices
+654,Tax Assessment,12,Government,11,9311,"Public Finance, Taxation, and Monetary Policy",931100,Tax Assessment,67999903.0,"Tax liens: holding, buying and selling",921130,Public Finance Activities
+655,Tourism Bureau,12,Government,11,9532,Urban Planning and Community Development,953200,Tourism Bureau,72990401.0,Babysitting bureau,925120,Administration of Urban Planning and Community and Rural Development
+641,Transportation,12,Government,11,9621,Regulation and Administration of Transportation Programs,962100,Transportation,27520701.0,"Schedules, transportation: lithographed",488111,Air Traffic Control
+656,Transportation Authority,12,Government,11,9621,Regulation and Administration of Transportation Programs,962100,Transportation Authority,96419903.0,Commodity exchange authority,488111,Air Traffic Control
+642,Utilities,12,Government,11,4911,Electric Services,491100,Utilities,16239906.0,Underground utilities contractor,221122,Electric Power Distribution
+657,Water/Sewer,12,Government,11,4941,Water Supply,494100,Water/Sewer,16230000.0,"Water, sewer, and utility lines",221310,Water Supply and Irrigation Systems
+93,Acupuncture,2,Medical Services,11,8049,"Health and Allied Services, NEC",804990,Acupuncture,80499900.0,"Offices of health practitioners, nec",621399,Offices of All Other Miscellaneous Health Practitioners
+141,Ambulatory Surgery Centers,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Ambulatory Surgery Centers,38429909.0,"Grafts, artificial: for surgery",621493,Freestanding Ambulatory Surgical and Emergency Centers
+142,Anesthesiology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Anesthesiology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+143,Assisted Living,2,Medical Services,11,8361,Residential Care,836100,Assisted Living,35429921.0,Ultrasonically assisted metal forming machines,623312,Assisted Living Facilities for the Elderly
+146,Cardiologist,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Cardiologist,80110101.0,Cardiologist and cardio-vascular specialist,621111,Offices of Physicians (except Mental Health Specialists)
+145,Cardiology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Cardiology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+147,Cardiovascular Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Cardiovascular Surgery,28340300.0,"Drugs acting on the cardiovascular system, except diagnostic",621111,Offices of Physicians (except Mental Health Specialists)
+148,Child Advocacy Centers,2,Medical Services,11,8322,Individual and Family Social Services,832200,Child Advocacy Centers,83220203.0,Child guidance agency,624110,Child and Youth Services
+95,Chiropractic,2,Medical Services,11,8041,Offices and Clinics of Chiropractors,804101,Chiropractors Physicians,80410000.0,Offices and clinics of chiropractors,621310,Offices of Chiropractors
+149,Clinical Labs,2,Medical Services,11,8071,Medical Laboratories,807100,Clinical Labs,38290703.0,"Thermometers, including digital: clinical",621511,Medical Laboratories
+150,Cosmetic Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Cosmetic Surgery,28440500.0,Cosmetic preparations,621111,Offices of Physicians (except Mental Health Specialists)
+151,Critical Care,2,Medical Services,11,8062,General Medical and Surgical Hospitals,806210,Critical Care,59990905.0,Incontinent care products,622110,General Medical and Surgical Hospitals
+152,Dental Implants,2,Medical Services,11,8021,Offices and Clinics of Dentists,802199,Dental Implants,38430101.0,"Abrasive points, wheels, and disks, dental",621210,Offices of Dentists
+96,Dentist/Orthodontist,2,Medical Services,11,8021,Offices and Clinics of Dentists,802110,Dentist/Orthodontist,80210105.0,Orthodontist,621210,Offices of Dentists
+97,Dermatologists,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,Dermatologists,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+153,Dialysis Centers,2,Medical Services,11,8092,Kidney Dialysis Centers,809200,Dialysis Centers,80920000.0,Kidney dialysis centers,621492,Kidney Dialysis Centers
+154,DME,2,Medical Services,11,5047,"Medical, Dental, and Hospital Equipment and Supplies",504700,DME,59990904.0,Hospital equipment and supplies,423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+98,Doctors/Physicians,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,Doctors/Physicians,80110202.0,"Clinic, operated by physicians",621111,Offices of Physicians (except Mental Health Specialists)
+99,Drug & Alcohol Treatment Centers,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Drug & Alcohol Treatment Centers,20850100.0,"Distiller's dried grains and solubles, and alcohol",621420,Outpatient Mental Health and Substance Abuse Centers
+101,Ear Nose & Throat,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,"Ear, Nose & Throat",80699902.0,"Eye, ear, nose, and throat hospital",621111,Offices of Physicians (except Mental Health Specialists)
+155,Eating Disorder Treatment,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Eating Disorder Treatment,51130200.0,"Disposable plates, cups, napkins, and eating utensils",621420,Outpatient Mental Health and Substance Abuse Centers
+156,Elderly Care Services,2,Medical Services,11,8361,Residential Care,836100,Elderly Care Services,7820203.0,Lawn care services,623311,Continuing Care Retirement Communities
+102,Emergency Medicine,2,Medical Services,11,8062,General Medical and Surgical Hospitals,806210,Emergency Medicine,17310103.0,Standby or emergency power specialization,622110,General Medical and Surgical Hospitals
+157,Emergency Room/Urgent Care,2,Medical Services,11,8062,General Medical and Surgical Hospitals,806210,Emergency Room/Urgent Care,34330200.0,"Room and wall heaters, including radiators",622110,General Medical and Surgical Hospitals
+158,Endocrinology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Endocrinology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+100,ENT,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,ENT Specialists,80119904.0,"Physicians' office, including specialists",621111,Offices of Physicians (except Mental Health Specialists)
+103,Family Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,Family Medicine,83220501.0,Family (marriage) counseling,621111,Offices of Physicians (except Mental Health Specialists)
+159,Fertility,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Fertility,80110524.0,"Fertility specialist, physician",621111,Offices of Physicians (except Mental Health Specialists)
+160,Funeral Home,2,Medical Services,11,7261,Funeral Service and Crematories,726100,Funeral Home,72619903.0,Funeral home,812210,Funeral Homes and Funeral Services
+104,Gastroenterology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Gastroenterology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+105,General Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,General Medicine,1910000.0,"General farms, primarily crop",621111,Offices of Physicians (except Mental Health Specialists)
+106,Geriatric Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Geriatric Medicine,80420102.0,Geriatric specialist optometrist,621111,Offices of Physicians (except Mental Health Specialists)
+107,Gynecology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Gynecology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+161,Hearing Centers,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Hearing Centers,76290101.0,Hearing aid repair,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+162,Hematology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Hematology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+108,Home Health Care,2,Medical Services,11,8082,Home Health Care Services,808200,Home Health Care,80599906.0,"Rest home, with health care",621610,Home Health Care Services
+163,Hospice,2,Medical Services,11,8082,Home Health Care Services,808200,Hospice,80820000.0,Home health care services,621610,Home Health Care Services
+164,Hospital,2,Medical Services,11,8062,General Medical and Surgical Hospitals,806210,Hospital,23899906.0,Hospital gowns,622110,General Medical and Surgical Hospitals
+109,Imaging & Radiology,2,Medical Services,11,8071,Medical Laboratories,807100,Imaging & Radiology,38260605.0,Magnetic resonance imaging apparatus,621512,Diagnostic Imaging Centers
+165,Infusion Therapy,2,Medical Services,11,8082,Home Health Care Services,808200,Infusion Therapy,38410418.0,Suction therapy apparatus,621610,Home Health Care Services
+166,Internal Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,Internal Medicine,80110100.0,Internal medicine practitioners,621111,Offices of Physicians (except Mental Health Specialists)
+110,Lab Services,2,Medical Services,11,8071,Medical Laboratories,807100,Lab Services,38250216.0,"Lab standards, electric: resistance, inductance, capacitance",621511,Medical Laboratories
+111,Massge Therapy,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Massage Therapy,72990201.0,Massage parlor,621399,Offices of All Other Miscellaneous Health Practitioners
+167,Medical Administration,2,Medical Services,11,8741,Management Services,874100,Medical Administration,94410202.0,"Medical assistance program administration, government",561110,Office Administrative Services
+168,Medical Devices,2,Medical Services,11,5047,"Medical, Dental, and Hospital Equipment and Supplies",504700,Medical Devices,38450121.0,"Ultrasonic scanning devices, medical",423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"
+169,Memory Care,2,Medical Services,11,8361,Residential Care,836100,Memory Care,36740209.0,Random access memory (RAM),623312,Assisted Living Facilities for the Elderly
+112,Mental Health,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Mental Health,80939902.0,"Mental health clinic, outpatient",621330,Offices of Mental Health Practitioners (except Physicians)
+170,MRI,2,Medical Services,11,8071,Medical Laboratories,807100,MRI,28350000.0,Diagnostic substances,621512,Diagnostic Imaging Centers
+171,Nephrology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Nephrology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+113,Neurology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Neurology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+114,Nursing Homes,2,Medical Services,11,8051,Skilled Nursing Care Facilities,805100,Nursing Homes,24529904.0,"Modular homes, prefabricated, wood",623110,Nursing Care Facilities (Skilled Nursing Facilities)
+172,Occupational Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Occupational Medicine,80499909.0,Occupational therapist,621111,Offices of Physicians (except Mental Health Specialists)
+115,Occupational Therapy,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Occupational Therapy,80499909.0,Occupational therapist,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+116,Oncology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Oncology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+117,Ophthalmology/Optometry,2,Medical Services,11,8042,Offices and Clinics of Optometrists,804200,Ophthalmology/Optometry,80420000.0,Offices and clinics of optometrists,621320,Offices of Optometrists
+118,Oral & Maxillofacial Surgery,2,Medical Services,11,8021,Offices and Clinics of Dentists,802199,Oral & Maxillofacial Surgery,28440200.0,Oral preparations,621210,Offices of Dentists
+119,Orthodontists,2,Medical Services,11,8021,Orthodontists,802110,Orthodontists,91110000.0,Executive offices,621210,Offices of Orthodontists
+120,Orthopedic,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Orthopedic,30690805.0,"Orthopedic sundries, molded rubber",621111,Offices of Physicians (except Mental Health Specialists)
+121,Otolaryngology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Otolaryngology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+122,Pain Management,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Pain Management,9710101.0,Game management,621111,Offices of Physicians (except Mental Health Specialists)
+173,Pathology,2,Medical Services,11,8071,Medical Laboratories,807100,Pathology,80710000.0,Medical laboratories,621511,Medical Laboratories
+123,Pediatrics,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Pediatrics,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+174,Pharmacies,2,Medical Services,11,5912,Drug Stores and Proprietary Stores,591200,Pharmacies,59129901.0,Drug stores,446110,Pharmacies and Drug Stores
+124,Physical Therapy,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Physical Therapy,38210402.0,"Calibration tapes, for physical testing machines",621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+175,Physician Recruiting,2,Medical Services,11,7361,Employment Agencies,736100,Physician Recruiting,80110109.0,"Pulmonary specialist, physician/surgeon",561311,Employment Placement Agencies
+125,Plastic Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Plastic Surgery,17990202.0,Coating of concrete structures with plastic,621111,Offices of Physicians (except Mental Health Specialists)
+126,Podiatry,2,Medical Services,11,8043,Offices and Clinics of Podiatrists,804300,Podiatry,80430000.0,Offices and clinics of podiatrists,621391,Offices of Podiatrists
+127,Primary Care,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801111,Primary Care,80110205.0,Primary care medical clinic,621111,Offices of Physicians (except Mental Health Specialists)
+128,Proctology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Proctology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+129,Psychiatry,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Psychiatry,80939902.0,"Mental health clinic, outpatient",621112,"Offices of Physicians, Mental Health Specialists"
+130,Pulmonology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Pulmonology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+176,Radiation Oncology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Radiation Oncology,32719910.0,"Blocks, concrete: radiation-proof",621111,Offices of Physicians (except Mental Health Specialists)
+177,Recovery Centers,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Recovery Centers,10410203.0,Gold recovery from tailings,621420,Outpatient Mental Health and Substance Abuse Centers
+131,Rehabilitation,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Rehabilitation,83220401.0,Offender rehabilitation agency,621399,Offices of All Other Miscellaneous Health Practitioners
+132,Rheumatology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Rheumatology,80110520.0,"Rheumatology specialist, physician/surgeon",621111,Offices of Physicians (except Mental Health Specialists)
+178,Senior Living,2,Medical Services,11,8361,Residential Care,836100,Senior Living,83220103.0,Senior citizens' center or association,623311,Continuing Care Retirement Communities
+133,Skilled Nursing Facilities,2,Medical Services,11,8051,Skilled Nursing Care Facilities,805100,Skilled Nursing Facilities,80510000.0,Skilled nursing care facilities,623110,Nursing Care Facilities (Skilled Nursing Facilities)
+179,Sleep Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Sleep Medicine,25149905.0,Medicine cabinets and vanities: metal,621111,Offices of Physicians (except Mental Health Specialists)
+134,Speech Therapy,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Speech Therapy,80490300.0,Speech specialist,621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists"
+180,Spine/Back,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Spine/Back,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+181,Sports Medicine,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Sports Medicine,80110521.0,"Sports medicine specialist, physician",621111,Offices of Physicians (except Mental Health Specialists)
+135,Substance Abuse,2,Medical Services,11,8093,Specialty Outpatient Facilities NEC,809300,Substance Abuse,80690100.0,Substance abuse hospitals,621420,Outpatient Mental Health and Substance Abuse Centers
+136,Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Surgery,38429909.0,"Grafts, artificial: for surgery",621111,Offices of Physicians (except Mental Health Specialists)
+182,Surgical Centers,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Surgical Centers,22110900.0,"Bandages, gauzes and surgical fabrics, cotton",621493,Freestanding Ambulatory Surgical and Emergency Centers
+183,Telehealth,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Telehealth,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+184,Therapeutic Recreation,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Therapeutic Recreation,38449910.0,Therapeutic X-ray apparatus and tubes,621399,Offices of All Other Miscellaneous Health Practitioners
+185,Thoracic Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Thoracic Surgery,38429909.0,"Grafts, artificial: for surgery",621111,Offices of Physicians (except Mental Health Specialists)
+186,Transport Medical,2,Medical Services,11,4119,Local Passenger Transportation NEC,411900,Transport Medical,37310207.0,"Transport vessels, troop: building and repairing",621910,Ambulance Services
+187,Trauma Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Trauma Surgery,38429909.0,"Grafts, artificial: for surgery",621111,Offices of Physicians (except Mental Health Specialists)
+137,Urology,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Urology,80939902.0,"Mental health clinic, outpatient",621111,Offices of Physicians (except Mental Health Specialists)
+138,Vascular Surgery,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Vascular Surgery,38429909.0,"Grafts, artificial: for surgery",621111,Offices of Physicians (except Mental Health Specialists)
+139,Veterinarian,2,Medical Services,11,742,Veterinary Services for Animal Specialties,74200,Veterinarian,7419902.0,"Veterinarian, livestock",541940,Veterinary Services
+140,Weight Loss,2,Medical Services,11,8049,Health and Allied Services NEC,804999,Weight Loss,80939905.0,"Weight loss clinic, with medical staff",621399,Offices of All Other Miscellaneous Health Practitioners
+188,Wound Care,2,Medical Services,11,8011,Offices and Clinics of Doctors of Medicine,801199,Wound Care,34930102.0,"Helical springs, hot wound: railroad equip., etc.",621111,Offices of Physicians (except Mental Health Specialists)
+658,Agriculture,13,Other,11,191,"General Farms, Primarily Crop",19100,Agriculture,96419901.0,Agriculture extension service,111998,All Other Miscellaneous Crop Farming
+667,Animal Husbandry,13,Other,11,291,"General Farms, Primarily Livestock and Animal Specialties",29100,Animal Husbandry,2730000.0,Animal aquaculture,112990,All Other Animal Production
+668,Beekeeping,13,Other,11,279,Animal Specialties NEC,27900,Beekeeping,24999903.0,"Beekeeping supplies, wood",112910,Apiculture
+669,Charitable Organizations,13,Other,11,8399,Social Services NEC,839900,Charitable Organizations,86999904.0,Charitable organization,813219,Other Grantmaking and Giving Services
+659,Churches/Religious,13,Other,11,8661,Religious Organizations,866100,Churches/Religious,86610100.0,"Churches, temples, and shrines",813110,Religious Organizations
+670,Community Organizations,13,Other,11,8641,"Civic, Social, and Fraternal Associations",864100,Community Organizations,65120204.0,"Shopping center, community (100,000-300,000 sq. ft.)",813410,Civic and Social Organizations
+660,Construction,13,Other,11,1521,General Contractors-Single-Family Houses,152100,Construction,14420000.0,Construction sand and gravel,236115,New Single-Family Housing Construction (except Operative Builders)
+671,Environmental Services,13,Other,11,8748,Business Consulting Services NEC,874800,Environmental Services,49590302.0,Environmental cleanup services,541620,Environmental Consulting Services
+661,Farming,13,Other,11,191,"General Farms, Primarily Crop",19100,Farming,7220000.0,Crop harvesting,111998,All Other Miscellaneous Crop Farming
+666,Forestry,13,Other,11,851,Forestry Services,85100,Forestry,8510000.0,Forestry services,115310,Support Activities for Forestry
+672,Foundations,13,Other,11,8733,Noncommercial Research Organizations,873300,Foundations,25150100.0,Mattresses and foundations,813211,Grantmaking Foundations
+673,Logging,13,Other,11,2411,Logging,241100,Logging,13899920.0,Well logging,113310,Logging
+662,Manufacturing,13,Other,11,3999,Manufacturing Industries NEC,399900,Manufacturing,24119904.0,Stumping for turpentine or powder manufacturing,333999,All Other Miscellaneous General Purpose Machinery Manufacturing
+663,Mining,13,Other,11,1499,"Miscellaneous Nonmetallic Minerals, Except Fuels",149900,Mining,10110100.0,Iron ore mining,212399,All Other Nonmetallic Mineral Mining
+664,Non-Profit,13,Other,11,8399,Social Services NEC,839900,Non-Profit,20239906.0,"Eggnog, packaged: non-alcoholic",813219,Other Grantmaking and Giving Services
+674,Ranching,13,Other,11,212,"Beef Cattle, Except Feedlots",21200,Ranching,2110000.0,Beef cattle feedlots,112111,Beef Cattle Ranching and Farming
+675,Religious Organizations,13,Other,11,8661,Religious Organizations,866100,Religious Organizations,86610000.0,Religious organizations,813110,Religious Organizations
+676,Social Organizations,13,Other,11,8641,"Civic, Social, and Fraternal Associations",864100,Social Organizations,80490403.0,Psychiatric social worker,813410,Civic and Social Organizations
+665,Utilities,13,Other,11,4911,Electric Services,491100,Utilities,16239906.0,Underground utilities contractor,221122,Electric Power Distribution
+677,Wildlife Conservation,13,Other,11,9512,"Land, Mineral, Wildlife, and Forest Conservation",951200,Wildlife Conservation,95120101.0,"Fish and wildlife conservation agency, government",712190,Nature Parks and Other Similar Institutions
+515,Appliance Repair,8,Personal Services,11,7623,Refrigeration and Air-Conditioning Services,762300,Appliance Repair,76290300.0,Electrical household appliance repair,811412,Appliance Repair and Maintenance
+480,Audio/Video,8,Personal Services,11,7389,Business Services NEC,738900,Audio/Video,36510000.0,Household audio and video equipment,811211,Consumer Electronics Repair and Maintenance
+516,Auto Glass,8,Personal Services,11,7536,Automotive Glass Replacement Shops,753600,Auto Glass,17930000.0,Glass and glazing work,811122,Automotive Glass Replacement Shops
+517,Auto Repair,8,Personal Services,11,7538,General Automotive Repair Shops,753800,Auto Repair,75499903.0,High performance auto repair and service,811111,General Automotive Repair
+481,Bed & Breakfast,8,Personal Services,11,7011,Hotels and Motels,701100,Bed & Breakfast,70110401.0,Bed and breakfast inn,721191,Bed and Breakfast Inns
+518,Carpet Cleaning,8,Personal Services,11,7217,Carpet and Upholstery Cleaning,721700,Carpet Cleaning,72170000.0,Carpet and upholstery cleaning,561740,Carpet and Upholstery Cleaning Services
+482,Catering,8,Personal Services,11,5812,Eating Places,581200,Catering,58129903.0,Caterers,722320,Caterers
+483,Childcare,8,Personal Services,11,8351,Child Day Care Services,835100,Childcare,83510000.0,Child day care services,624410,Child Day Care Services
+484,Cleaning Services,8,Personal Services,11,7349,Building Cleaning and Maintenance Services NEC,734900,Cleaning Services,7230205.0,Grain cleaning services,561720,Janitorial Services
+485,Computer Repair,8,Personal Services,11,7378,Computer Maintenance and Repair,737800,Computer Repair,73780000.0,Computer maintenance and repair,811212,Computer and Office Machine Repair and Maintenance
+519,Computer Services,8,Personal Services,11,7378,Computer Maintenance and Repair,737800,Computer Services,73730300.0,Computer system selling services,811212,Computer and Office Machine Repair and Maintenance
+520,Construction,8,Personal Services,11,1521,General Contractors-Single-Family Houses,152100,Construction,14420000.0,Construction sand and gravel,236115,New Single-Family Housing Construction (except Operative Builders)
+486,Dating Services,8,Personal Services,11,7299,Miscellaneous Personal Services,729900,Dating Services,72990300.0,Dating and escort services,812199,Other Personal Care Services
+521,Day Care,8,Personal Services,11,8351,Child Day Care Services,835100,Day Care,83519901.0,Group day care center,624410,Child Day Care Services
+487,Dentist/Medical,8,Personal Services,11,8021,Offices and Clinics of Dentists,802100,Dentist/Medical,30690100.0,Medical and laboratory rubber sundries and related products,621210,Offices of Dentists
+488,Dry Cleaning,8,Personal Services,11,7216,"Dry Cleaning Plants, Except Rug Cleaning",721600,Dry Cleaning,35899908.0,"Servicing machines, except dry cleaning, laundry: coin-oper.",812320,Drycleaning and Laundry Services (except Coin-Operated)
+522,Elder Care,8,Personal Services,11,8082,Home Health Care Services,808200,Elder Care,59990905.0,Incontinent care products,621610,Home Health Care Services
+523,Electrical,8,Personal Services,11,1731,Electrical Work,173100,Electrical,17310000.0,Electrical work,238210,Electrical Contractors and Other Wiring Installation Contractors
+489,Event Planning,8,Personal Services,11,7389,Business Services NEC,738900,Event Planning,7810000.0,Landscape counseling and planning,561920,Convention and Trade Show Organizers
+524,Exercise Equipment,8,Personal Services,11,7699,Repair Shops and Related Services NEC,769900,Exercise Equipment,39490300.0,Exercise equipment,811490,Other Personal and Household Goods Repair and Maintenance
+525,Fencing,8,Personal Services,11,1799,Special Trade Contractors NEC,179900,Fencing,24991602.0,"Fencing, wood",238190,"Other Foundation, Structure, and Building Exterior Contractors"
+490,Financial Services,8,Personal Services,11,6211,"Security Brokers, Dealers, and Flotation Companies",621100,Financial Services,73890900.0,Financial services,523120,Securities Brokerage
+526,Flooring,8,Personal Services,11,1752,Floor Laying and Other Floor Work NEC,175200,Flooring,17529901.0,Access flooring system installation,238330,Flooring Contractors
+491,Funeral Services,8,Personal Services,11,7261,Funeral Service and Crematories,726100,Funeral Services,72619902.0,Funeral director,812210,Funeral Homes and Funeral Services
+492,Hair/Beauty,8,Personal Services,11,7231,Beauty Shops,723100,Hair/Beauty,39990104.0,"Hair curlers, designed for beauty parlors",812112,Beauty Salons
+493,Handyman,8,Personal Services,11,1799,Special Trade Contractors NEC,179900,Handyman,72999905.0,Handyman service,561790,Other Services to Buildings and Dwellings
+528,Home Inspection,8,Personal Services,11,7389,Business Services NEC,738900,Home Inspection,28999938.0,"Penetrants, inspection",541350,Building Inspection Services
+529,Home Security,8,Personal Services,11,7382,Security Systems Services,738200,Home Security,34290206.0,Security cable locking systems,561621,Security Systems Services (except Locksmiths)
+494,Hotels/Motels,8,Personal Services,11,7011,Hotels and Motels,701100,Hotels/Motels,70110000.0,Hotels and motels,721110,Hotels (except Casino Hotels) and Motels
+530,Housekeeping,8,Personal Services,11,7349,Building Cleaning and Maintenance Services NEC,734900,Housekeeping,73490103.0,Hospital housekeeping,561720,Janitorial Services
+527,HVAC,8,Personal Services,11,1711,"Plumbing, Heating, and Air-Conditioning",171100,HVAC,17110400.0,Heating and air conditioning contractors,238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+531,Insurance,8,Personal Services,11,6411,"Insurance Agents, Brokers, and Service",641100,Insurance,63110000.0,Life insurance,524210,Insurance Agencies and Brokerages
+495,Interior Design,8,Personal Services,11,7389,Business Services NEC,738900,Interior Design,73890600.0,Interior design services,541410,Interior Design Services
+532,Jewelry Repair,8,Personal Services,11,7631,"Watch, Clock, and Jewelry Repair",763100,Jewelry Repair,76310000.0,"Watch, clock, and jewelry repair",811490,Other Personal and Household Goods Repair and Maintenance
+496,Landscaping,8,Personal Services,11,782,Lawn and Garden Services,78200,Landscaping,50830202.0,Landscaping equipment,561730,Landscaping Services
+497,Laundromat,8,Personal Services,11,7215,Coin-Operated Laundry and Drycleaning,721500,Laundromat,72150000.0,Coin-operated laundries and cleaning,812310,Coin-Operated Laundries and Drycleaners
+533,Lawn Care,8,Personal Services,11,782,Lawn and Garden Services,78200,Lawn Care,7820203.0,Lawn care services,561730,Landscaping Services
+498,Legal Services,8,Personal Services,11,8111,Legal Services,811100,Legal Services,81110000.0,Legal services,541110,Offices of Lawyers
+499,Locksmiths,8,Personal Services,11,7699,Repair Shops and Related Services NEC,769900,Locksmiths,76991103.0,Locksmith shop,561622,Locksmiths
+534,Mailbox Services,8,Personal Services,11,7389,Business Services NEC,738900,Mailbox Services,73891603.0,Mailbox rental and related service,561431,Private Mail Centers
+535,Massage,8,Personal Services,11,7299,Miscellaneous Personal Services,729900,Massage,72990201.0,Massage parlor,812199,Other Personal Care Services
+500,Movers,8,Personal Services,11,4214,"Local Trucking, Without Storage",421400,Movers,42149902.0,"Household goods moving and storage, local",484210,Used Household and Office Goods Moving
+536,Moving Services,8,Personal Services,11,4214,"Local Trucking, Without Storage",421400,Moving Services,42120400.0,Moving services,484210,Used Household and Office Goods Moving
+501,Notary Services,8,Personal Services,11,7389,Business Services NEC,738900,Notary Services,39530106.0,"Seal presses, notary and hand",541199,All Other Legal Services
+537,Painting,8,Personal Services,11,1721,Painting and Paper Hanging,172100,Painting,17210000.0,Painting and paper hanging,238320,Painting and Wall Covering Contractors
+502,Personal Care,8,Personal Services,11,7299,Miscellaneous Personal Services,729900,Personal Care,80529902.0,Personal care facility,812199,Other Personal Care Services
+538,Pest Control,8,Personal Services,11,7342,Disinfecting and Pest Control Services,734200,Pest Control,73420203.0,Pest control in structures,561710,Exterminating and Pest Control Services
+503,Pet Services,8,Personal Services,11,752,Animal Specialty Services,75200,Pet Services,38450117.0,Position emission tomography (PET scanner),812910,Pet Care (except Veterinary) Services
+504,Photography,8,Personal Services,11,7221,"Photographic Studios, Portrait",722100,Photography,48999902.0,Missile tracking by telemetry and photography,541921,"Photography Studios, Portrait"
+505,Plumbing,8,Personal Services,11,1711,"Plumbing, Heating, and Air-Conditioning",171100,Plumbing,17110000.0,"Plumbing, heating, air-conditioning",238220,"Plumbing, Heating, and Air-Conditioning Contractors"
+539,Pool Services,8,Personal Services,11,7389,Business Services NEC,738900,Pool Services,39490804.0,"Bridges, billiard and pool",561790,Other Services to Buildings and Dwellings
+506,Real Estate,8,Personal Services,11,6531,Real Estate Agents and Managers,653100,Real Estate,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+507,Repair Services,8,Personal Services,11,7699,Repair Shops and Related Services NEC,769900,Repair Services,45810200.0,Aircraft maintenance and repair services,811490,Other Personal and Household Goods Repair and Maintenance
+540,Roofing,8,Personal Services,11,1761,"Roofing, Siding, and Sheet Metal Work",176100,Roofing,17610000.0,"Roofing, siding, and sheetmetal work",238160,Roofing Contractors
+541,Shoe Repair,8,Personal Services,11,7251,Shoe Repair Shops and Shoeshine Parlors,725100,Shoe Repair,72510000.0,Shoe repair and shoeshine parlors,811430,Footwear and Leather Goods Repair
+542,Snow Removal,8,Personal Services,11,782,Lawn and Garden Services,78299,Snow Removal,14819902.0,"Overburden removal, nonmetallic minerals",561730,Landscaping Services
+508,Storage/Self Storage,8,Personal Services,11,4225,General Warehousing and Storage,422500,Storage/Self Storage,42259903.0,"Warehousing, self storage",531130,Lessors of Miniwarehouses and Self-Storage Units
+543,Swimming Pool,8,Personal Services,11,1799,Special Trade Contractors NEC,179900,Swimming Pool,34239917.0,Leaf skimmers or swimming pool rakes,238290,Other Building Equipment Contractors
+509,Tax Services,8,Personal Services,11,7291,Tax Return Preparation Services,729100,Tax Services,73891300.0,Legal and tax services,541213,Tax Preparation Services
+510,Transportation,8,Personal Services,11,4119,Local Passenger Transportation NEC,411900,Transportation,27520701.0,"Schedules, transportation: lithographed",485999,All Other Transit and Ground Passenger Transportation
+511,Travel/Tourism,8,Personal Services,11,4724,Travel Agencies,472400,Travel/Tourism,37920000.0,Travel trailers and campers,561510,Travel Agencies
+544,Tree Service,8,Personal Services,11,783,Ornamental Shrub and Tree Services,78300,Tree Service,1730000.0,Tree nuts,561730,Landscaping Services
+512,Tutoring,8,Personal Services,11,8299,Schools and Educational Services NEC,829900,Tutoring,82990202.0,Tutoring school,611691,Exam Preparation and Tutoring
+545,Upholstery,8,Personal Services,11,7217,Carpet and Upholstery Cleaning,721799,Upholstery,22110600.0,"Upholstery, tapestry and wall coverings: cotton",811420,Reupholstery and Furniture Repair
+513,Vehicle Services,8,Personal Services,11,7538,General Automotive Repair Shops,753800,Vehicle Services,24260303.0,"Vehicle stock, hardwood",811111,General Automotive Repair
+514,Wedding Services,8,Personal Services,11,7389,Business Services NEC,738900,Wedding Services,23350102.0,Wedding gowns and dresses,561920,Convention and Trade Show Organizers
+546,Window Cleaning,8,Personal Services,11,7349,Building Cleaning and Maintenance Services NEC,734900,Window Cleaning,28420111.0,Window cleaning preparations,561790,Other Services to Buildings and Dwellings
+547,Window Tinting,8,Personal Services,11,7536,Automotive Glass Replacement Shops,753699,Window Tinting,17510200.0,Window and door installation and erection,811122,Automotive Glass Replacement Shops
+561,Accounting/Tax Services,9,Professional Services,11,8721,"Accounting, Auditing, and Bookkeeping Services",872100,Accounting/Tax Services,73891300.0,Legal and tax services,541211,Offices of Certified Public Accountants
+562,Architecture,9,Professional Services,11,8712,Architectural Services,871200,Architecture,87120000.0,Architectural services,541310,Architectural Services
+563,Auditing,9,Professional Services,11,8721,"Accounting, Auditing, and Bookkeeping Services",872100,Auditing,87210100.0,Auditing services,541211,Offices of Certified Public Accountants
+548,Bail Bonds,9,Professional Services,11,6399,Insurance Carriers NEC,639900,Bail Bonds,36439905.0,"Rail bonds, electric: for propulsion and signal circuits",524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers"
+564,Banking/Finance,9,Professional Services,11,6021,National Commercial Banks,602100,Banking/Finance,87420401.0,Banking and finance consultant,522110,Commercial Banking
+565,Bookkeeping,9,Professional Services,11,8721,"Accounting, Auditing, and Bookkeeping Services",872100,Bookkeeping,87219901.0,Billing and bookkeeping service,541219,Other Accounting Services
+566,Business Development,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Business Development,10810102.0,"Mine development, metal",541611,Administrative Management and General Management Consulting Services
+549,Business Services,9,Professional Services,11,7389,Business Services NEC,738900,Business Services,73890000.0,"Business services, nec",541990,"All Other Professional, Scientific, and Technical Services"
+567,Construction Management,9,Professional Services,11,1542,General Contractors-Nonresidential Buildings,154200,Construction Management,87419902.0,Construction management,541330,Engineering Services
+550,Consulting,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Consulting,87119903.0,Consulting engineer,541611,Administrative Management and General Management Consulting Services
+568,Credit Services,9,Professional Services,11,6141,Personal Credit Institutions,614100,Credit Services,61539901.0,"Credit card services, central agency collection",522291,Consumer Lending
+551,Employment Services,9,Professional Services,11,7361,Employment Agencies,736100,Employment Services,73610102.0,Labor contractors (employment agency),561311,Employment Placement Agencies
+552,Engineering,9,Professional Services,11,8711,Engineering Services,871100,Engineering,86219905.0,Engineering association,541330,Engineering Services
+553,Financial Services,9,Professional Services,11,6211,"Security Brokers, Dealers, and Flotation Companies",621100,Financial Services,73890900.0,Financial services,523120,Securities Brokerage
+554,Government Services,9,Professional Services,11,9199,General Government NEC,919900,Government Services,97219905.0,"Immigration services, government",921190,Other General Government Support
+555,Healthcare Services,9,Professional Services,11,8099,Health and Allied Services NEC,809900,Healthcare Services,7119901.0,Fertilizer application services,621999,All Other Miscellaneous Ambulatory Health Care Services
+569,Human Resources,9,Professional Services,11,8999,Services NEC,899900,Human Resources,94410200.0,Administration of social and human resources,541612,Human Resources Consulting Services
+556,Insurance Services,9,Professional Services,11,6411,"Insurance Agents, Brokers, and Service",641100,Insurance Services,64110101.0,"Advisory services, insurance",524210,Insurance Agencies and Brokerages
+570,Investment Services,9,Professional Services,11,6282,Investment Advice,628200,Investment Services,33240000.0,Steel investment foundries,523930,Investment Advice
+557,Legal Services,9,Professional Services,11,8111,Legal Services,811100,Legal Services,81110000.0,Legal services,541110,Offices of Lawyers
+571,Management Consulting,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Management Consulting,87420000.0,Management consulting services,541611,Administrative Management and General Management Consulting Services
+572,Marketing/Advertising,9,Professional Services,11,7311,Advertising Agencies,731100,Marketing/Advertising,27520201.0,"Advertising posters, lithographed",541810,Advertising Agencies
+573,Payroll Services,9,Professional Services,11,7374,Computer Processing and Data Preparation and Processing Services,737400,Payroll Services,87210202.0,Payroll accounting service,541214,Payroll Services
+574,Project Management,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Project Management,87420402.0,Construction project management consultant,541611,Administrative Management and General Management Consulting Services
+575,Public Relations,9,Professional Services,11,8743,Public Relations Services,874300,Public Relations,87439903.0,Public relations and publicity,541820,Public Relations Agencies
+558,Real Estate Services,9,Professional Services,11,6531,Real Estate Agents and Managers,653100,Real Estate Services,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+576,Recruiting,9,Professional Services,11,7361,Employment Agencies,736100,Recruiting,73610100.0,Placement agencies,561311,Employment Placement Agencies
+577,Research Services,9,Professional Services,11,8732,"Commercial Economic, Sociological, and Educational Research",873200,Research Services,87320108.0,"Research services, except laboratory",541910,Marketing Research and Public Opinion Polling
+578,Risk Management,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Risk Management,9710101.0,Game management,541611,Administrative Management and General Management Consulting Services
+579,Strategic Planning,9,Professional Services,11,8748,Business Consulting Services NEC,874800,Strategic Planning,7810000.0,Landscape counseling and planning,541611,Administrative Management and General Management Consulting Services
+580,Surveying,9,Professional Services,11,8713,Surveying Services,871300,Surveying,13890205.0,Surveying wells,541370,Surveying and Mapping (except Geophysical) Services
+559,Technology Services,9,Professional Services,11,7371,Computer Programming Services,737100,Technology Services,73790203.0,Online services technology consultants,541511,Custom Computer Programming Services
+560,Training/Education,9,Professional Services,11,8299,Schools and Educational Services NEC,829900,Training/Education,37280501.0,Link trainers (aircraft training mechanisms),611430,Professional and Management Development Training
+581,Valuation Services,9,Professional Services,11,7389,Business Services NEC,738900,Valuation Services,8519906.0,Timber valuation services,531320,Offices of Real Estate Appraisers
+582,Veterinary Services,9,Professional Services,11,742,Veterinary Services for Animal Specialties,74200,Veterinary Services,7410000.0,Veterinary services for livestock,541940,Veterinary Services
+758,Acai Bowl,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Acai Bowl,30890202.0,"Bowl covers, plastics",722513,Limited-Service Restaurants
+797,Airline Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Airline Catering,47290101.0,Airline ticket offices,722320,Caterers
+788,Airport Food,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Airport Food,36120301.0,Airport lighting transformers,722513,Limited-Service Restaurants
+748,Bagel Shop,17,Quick Serve Restaurants,11,5461,Retail Bakeries,546100,Bagel Shop,34430000.0,Fabricated plate work (boiler shop),722513,Limited-Service Restaurants
+739,Bakery,17,Quick Serve Restaurants,11,5461,Retail Bakeries,546100,Bakery,35560302.0,"Ovens, bakery",722513,Limited-Service Restaurants
+803,BBQ Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,BBQ Catering,58129903.0,Caterers,722320,Caterers
+836,Beach Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Beach Catering,49599901.0,Beach maintenance cleaning,722320,Caterers
+738,Breakfast,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Breakfast,20430000.0,Cereal breakfast foods,722513,Limited-Service Restaurants
+807,Breakfast Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Breakfast Catering,20430000.0,Cereal breakfast foods,722320,Caterers
+740,Bubble Tea,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Bubble Tea,30899906.0,"Blister or bubble formed packaging, plastics",722513,Limited-Service Restaurants
+823,Budget Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Budget Catering,93110201.0,"Budget agency, government",722320,Caterers
+810,Buffet Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Buffet Catering,58129901.0,Buffet (eating places),722320,Caterers
+750,Candy Store,17,Quick Serve Restaurants,11,5441,"Candy, Nut, and Confectionery Stores",544100,Candy Store,20640000.0,Candy and other confectionery products,445292,Confectionery and Nut Stores
+753,Chocolate Shop,17,Quick Serve Restaurants,11,5441,"Candy, Nut, and Confectionery Stores",544100,Chocolate Shop,20269904.0,"Milk, chocolate",445292,Confectionery and Nut Stores
+771,Cloud Kitchen,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Cloud Kitchen,89990501.0,Cloud seeding,722513,Limited-Service Restaurants
+741,Coffee Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Coffee Shop,58120304.0,Coffee shop,722513,Limited-Service Restaurants
+786,Concession Stand,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Concession Stand,79991505.0,Concession operator,722513,Limited-Service Restaurants
+792,Corporate Cafeteria,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Corporate Cafeteria,39530103.0,"Embossing seals, corporate and official",722513,Limited-Service Restaurants
+800,Corporate Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Corporate Catering,39530103.0,"Embossing seals, corporate and official",722320,Caterers
+774,Counter Service,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Counter Service,17990603.0,Counter top installation,722513,Limited-Service Restaurants
+796,Cruise Ship Dining,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Cruise Ship Dining,17519903.0,Ship joinery,722511,Full-Service Restaurants
+767,Deli,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Deli,58120500.0,Family restaurants,722513,Limited-Service Restaurants
+772,Delivery Only,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Delivery Only,42159903.0,"Package delivery, vehicular",722513,Limited-Service Restaurants
+809,Dinner Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Dinner Catering,58129908.0,Dinner theater,722320,Caterers
+742,Donut Shop,17,Quick Serve Restaurants,11,5461,Retail Bakeries,546100,Donut Shop,34430000.0,Fabricated plate work (boiler shop),722513,Limited-Service Restaurants
+813,Drop-off Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Drop-off Catering,23940200.0,Canvas covers and drop cloths,722320,Caterers
+760,Energy Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Energy Bar,17110403.0,Solar energy contractor,722513,Limited-Service Restaurants
+826,Ethnic Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Ethnic Catering,20320200.0,"Ethnic foods, canned, jarred, etc.",722320,Caterers
+798,Event Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Event Catering,79410200.0,Stadium event operator services,722320,Caterers
+776,Express,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Express,22119914.0,"Express stripes, cotton",722513,Limited-Service Restaurants
+812,Family Style Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Family Style Catering,83220501.0,Family (marriage) counseling,722320,Caterers
+820,Farm-to-Table Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Farm-to-Table Catering,1190102.0,Cowpea farm,722320,Caterers
+775,Fast Casual,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Fast Casual,31439901.0,"Boots, dress or casual: men's",722513,Limited-Service Restaurants
+787,Food Court,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Food Court,73380000.0,Secretarial and court reporting,722513,Limited-Service Restaurants
+784,Food Stand,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Food Stand,58120206.0,Soft drink stand,722330,Mobile Food Services
+768,Food Truck,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Food Truck,30110107.0,Truck or bus inner tubes,722330,Mobile Food Services
+754,Frozen Treats,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Frozen Treats,20139906.0,"Frozen meats, from purchased meat",722513,Limited-Service Restaurants
+814,Full Service Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Full Service Catering,7220105.0,Threshing service,722320,Caterers
+838,Garden Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Garden Catering,30520105.0,"Garden hose, rubber",722320,Caterers
+755,Gelato Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Gelato Shop,34430000.0,Fabricated plate work (boiler shop),722513,Limited-Service Restaurants
+769,Ghost Kitchen,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Ghost Kitchen,89990303.0,Ghost writing,722513,Limited-Service Restaurants
+818,Gluten-Free Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Gluten-Free Catering,20460111.0,Wheat gluten,722320,Caterers
+821,Gourmet Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Gourmet Catering,54999904.0,Gourmet food stores,722320,Caterers
+778,Grab & Go,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Grab & Go,58120500.0,Family restaurants,722513,Limited-Service Restaurants
+816,Halal Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Halal Catering,58129903.0,Caterers,722320,Caterers
+761,Health Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Health Bar,36410203.0,"Health lamps, infrared or ultraviolet",722513,Limited-Service Restaurants
+802,Holiday Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Holiday Catering,58129903.0,Caterers,722320,Caterers
+790,Hospital Cafeteria,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Hospital Cafeteria,23899906.0,Hospital gowns,722513,Limited-Service Restaurants
+794,Hotel Restaurant,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Hotel Restaurant,15220202.0,"Renovation, hotel/motel",722511,Full-Service Restaurants
+743,Ice Cream/Frozen Yogurt,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Ice Cream/Frozen Yogurt,20240000.0,Ice cream and frozen deserts,722513,Limited-Service Restaurants
+833,Indoor Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Indoor Catering,36310100.0,Indoor cooking equipment,722320,Caterers
+827,International Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,International Catering,97210000.0,International affairs,722320,Caterers
+744,Juice Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Juice Bar,20330108.0,"Tomato juice: packaged in cans, jars, etc.",722513,Limited-Service Restaurants
+783,Kiosk,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Kiosk,58120500.0,Family restaurants,722513,Limited-Service Restaurants
+815,Kosher Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Kosher Catering,58129903.0,Caterers,722320,Caterers
+829,Local Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Local Catering,41110000.0,Local and suburban transit,722320,Caterers
+808,Lunch Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Lunch Catering,59630206.0,Lunch wagon,722320,Caterers
+830,Mobile Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Mobile Catering,24510202.0,Mobile classrooms,722330,Mobile Food Services
+779,Mobile Vendor,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Mobile Vendor,24510202.0,Mobile classrooms,722330,Mobile Food Services
+752,Nut Shop,17,Quick Serve Restaurants,11,5441,"Candy, Nut, and Confectionery Stores",544100,Nut Shop,1739907.0,Tung nut grove,445292,Confectionery and Nut Stores
+832,Off-Site Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Off-Site Catering,17999932.0,Welding on site,722320,Caterers
+831,On-Site Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,On-Site Catering,17999932.0,Welding on site,722320,Caterers
+819,Organic Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Organic Catering,28240000.0,"Organic fibers, noncellulosic",722320,Caterers
+834,Outdoor Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Outdoor Catering,24210400.0,Outdoor wood structural products,722320,Caterers
+837,Park Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Park Catering,25319908.0,"Picnic tables or benches, park",722320,Caterers
+801,Party Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Party Catering,51990210.0,"Party favors, balloons, hats, etc.",722320,Caterers
+747,Pastry Shop,17,Quick Serve Restaurants,11,5461,Retail Bakeries,546100,Pastry Shop,79991124.0,Cake or pastry decorating instruction,722513,Limited-Service Restaurants
+805,Pizza Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Pizza Catering,20330104.0,"Pizza sauce: packaged in cans, jars, etc.",722320,Caterers
+811,Plated Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Plated Catering,33121000.0,Coated or plated products,722320,Caterers
+781,Pop-up Restaurant,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Pop-up Restaurant,50120304.0,Pop-up campers,722513,Limited-Service Restaurants
+751,Popcorn Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Popcorn Shop,20649918.0,Popcorn balls or other treated popcorn products,722513,Limited-Service Restaurants
+749,Pretzel Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Pretzel Shop,34430000.0,Fabricated plate work (boiler shop),722513,Limited-Service Restaurants
+759,Protein Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Protein Bar,20759906.0,Soybean protein concentrates and isolates,722513,Limited-Service Restaurants
+777,Quick Bite,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Quick Bite,38429907.0,"First aid, snake bite, and burn kits",722513,Limited-Service Restaurants
+828,Regional Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Regional Catering,65120202.0,"Shopping center, super-regional (more than 1,000,000 sq ft)",722320,Caterers
+795,Resort Dining,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Resort Dining,70110303.0,Resort hotel,722511,Full-Service Restaurants
+762,Salad Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Salad Bar,20350000.0,"Pickles, sauces, and salad dressings",722513,Limited-Service Restaurants
+806,Sandwich Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Sandwich Catering,20139918.0,"Spreads, sandwich: meat, from purchased meat",722320,Caterers
+765,Sandwich Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Sandwich Shop,20139918.0,"Spreads, sandwich: meat, from purchased meat",722513,Limited-Service Restaurants
+791,School Cafeteria,17,Quick Serve Restaurants,11,5812,Eating Places,581200,School Cafeteria,41510000.0,School buses,722513,Limited-Service Restaurants
+782,Seasonal Stand,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Seasonal Stand,58120206.0,Soft drink stand,722330,Mobile Food Services
+756,Shaved Ice,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Shaved Ice,20240103.0,"Ice milk, bulk",722513,Limited-Service Restaurants
+745,Smoothie Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Smoothie Bar,25410101.0,"Bar fixtures, wood",722513,Limited-Service Restaurants
+785,Snack Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Snack Bar,58120314.0,Snack bar,722513,Limited-Service Restaurants
+757,Snow Cone,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Snow Cone,58120204.0,Snow cone stand,722513,Limited-Service Restaurants
+763,Soup Bar,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Soup Bar,20320302.0,"Beef soup: packaged in cans, jars, etc.",722513,Limited-Service Restaurants
+825,Specialty Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Specialty Catering,20489908.0,"Feeds, specialty: mice, guinea pig, etc.",722320,Caterers
+789,Stadium Food,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Stadium Food,25310402.0,Stadium seating,722513,Limited-Service Restaurants
+780,Street Food,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Street Food,16110102.0,Highway and street sign installation,722330,Mobile Food Services
+766,Sub Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Sub Shop,34430000.0,Fabricated plate work (boiler shop),722513,Limited-Service Restaurants
+804,Taco Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Taco Catering,58129903.0,Caterers,722320,Caterers
+773,Takeout Only,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Takeout Only,58120500.0,Family restaurants,722513,Limited-Service Restaurants
+746,Tea Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Tea Shop,20860100.0,"Iced tea and fruit drinks, bottled and canned",722513,Limited-Service Restaurants
+835,Tent Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Tent Catering,37929906.0,Tent-type camping trailers,722320,Caterers
+793,University Dining,17,Quick Serve Restaurants,11,5812,Eating Places,581200,University Dining,82210102.0,University,722513,Limited-Service Restaurants
+822,Upscale Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Upscale Catering,58129903.0,Caterers,722320,Caterers
+817,Vegan Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Vegan Catering,58129903.0,Caterers,722320,Caterers
+770,Virtual Restaurant,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Virtual Restaurant,34449908.0,Restaurant sheet metalwork,722513,Limited-Service Restaurants
+824,Volume Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Volume Catering,58129903.0,Caterers,722320,Caterers
+799,Wedding Catering,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Wedding Catering,23350102.0,Wedding gowns and dresses,722320,Caterers
+764,Wrap Shop,17,Quick Serve Restaurants,11,5812,Eating Places,581200,Wrap Shop,26790500.0,"Gift wrap and novelties, paper",722513,Limited-Service Restaurants
+623,Agricultural Property,11,Real Estate,11,6519,Lessors of Real Property NEC,651900,Agricultural Property,14220101.0,"Agricultural limestone, ground",531190,Lessors of Other Real Estate Property
+610,Apartment Complexes,11,Real Estate,11,6513,Operators of Apartment Buildings,651300,Apartment Complexes,15319902.0,Cooperative apartment developers,531110,Lessors of Residential Buildings and Dwellings
+624,Commercial Leasing,11,Real Estate,11,6512,Operators of Nonresidential Buildings,651200,Commercial Leasing,44990305.0,Steamship leasing,531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+611,Commercial Property,11,Real Estate,11,6512,Operators of Nonresidential Buildings,651200,Commercial Property,17210401.0,Commercial wallcovering contractor,531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+612,Condominiums,11,Real Estate,11,6513,Operators of Apartment Buildings,651300,Condominiums,50390101.0,Metal buildings,531110,Lessors of Residential Buildings and Dwellings
+625,Construction/Development,11,Real Estate,11,1531,Operative Builders,153100,Construction/Development,10810102.0,"Mine development, metal",236117,New Housing For-Sale Builders
+626,Hotel/Hospitality,11,Real Estate,11,7011,Hotels and Motels,701100,Hotel/Hospitality,15220202.0,"Renovation, hotel/motel",721110,Hotels (except Casino Hotels) and Motels
+613,Industrial Property,11,Real Estate,11,6512,Operators of Nonresidential Buildings,651200,Industrial Property,14460000.0,Industrial sand,531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+614,Land Development,11,Real Estate,11,6552,Land Subdividers and Developers,655200,Land Development,16290401.0,Land leveling,236117,New Housing For-Sale Builders
+627,Luxury Properties,11,Real Estate,11,6513,Operators of Apartment Buildings,651300,Luxury Properties,38260700.0,Instruments measuring thermal properties,531110,Lessors of Residential Buildings and Dwellings
+628,Manufactured Housing,11,Real Estate,11,6515,Operators of Residential Mobile Home Sites,651500,Manufactured Housing,32720707.0,"Housing components, prefabricated concrete",531190,Lessors of Other Real Estate Property
+629,Mixed-Use Development,11,Real Estate,11,6552,Land Subdividers and Developers,655200,Mixed-Use Development,20419902.0,"Corn grits and flakes, for brewers' use",236117,New Housing For-Sale Builders
+615,Mobile Home Parks,11,Real Estate,11,6515,Operators of Residential Mobile Home Sites,651500,Mobile Home Parks,24510101.0,Mobile home frames,531190,Lessors of Other Real Estate Property
+616,Office Buildings,11,Real Estate,11,6512,Operators of Nonresidential Buildings,651200,Office Buildings,15420102.0,"Commercial and office buildings, prefabricated erection",531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+617,Property Management,11,Real Estate,11,6531,Real Estate Agents and Managers,653100,Property Management,65120201.0,"Shopping center, property operation only",531311,Residential Property Managers
+618,Real Estate Agencies,11,Real Estate,11,6531,Real Estate Agents and Managers,653100,Real Estate Agencies,60999905.0,Fiduciary agencies other than real estate or trust,531210,Offices of Real Estate Agents and Brokers
+630,Real Estate Investment,11,Real Estate,11,6798,Real Estate Investment Trusts,679800,Real Estate Investment,67980000.0,Real estate investment trusts,525930,Real Estate Investment Trusts
+631,Real Estate Services,11,Real Estate,11,6531,Real Estate Agents and Managers,653100,Real Estate Services,65310000.0,Real estate agents and managers,531210,Offices of Real Estate Agents and Brokers
+632,Rental Properties,11,Real Estate,11,6513,Operators of Apartment Buildings,651300,Rental Properties,38260700.0,Instruments measuring thermal properties,531110,Lessors of Residential Buildings and Dwellings
+619,Residential Property,11,Real Estate,11,6513,Operators of Apartment Buildings,651300,Residential Property,17210402.0,Residential wallcovering contractor,531110,Lessors of Residential Buildings and Dwellings
+620,Retail Property,11,Real Estate,11,6512,Operators of Nonresidential Buildings,651200,Retail Property,65120200.0,"Property operation, retail establishment",531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+621,Storage Facilities,11,Real Estate,11,4225,General Warehousing and Storage,422500,Storage Facilities,45810100.0,Hangars and other aircraft storage facilities,531130,Lessors of Miniwarehouses and Self-Storage Units
+633,Vacation Rentals,11,Real Estate,11,7041,Organization Hotels and Lodging Houses,704100,Vacation Rentals,67330103.0,Vacation funds for employees,721199,All Other Traveler Accommodation
+622,Warehouses,11,Real Estate,11,4225,General Warehousing and Storage,422500,Warehouses,42219901.0,Cotton compresses and warehouses,531130,Lessors of Miniwarehouses and Self-Storage Units
+22,American,1,Restaurants,11,5812,Eating Places,581200,American Restaurants,58120101.0,American restaurant,722511,Full-Service Restaurants
+49,Asian,1,Restaurants,11,5812,Eating Places,581200,Asian Restaurants,58120500.0,Family restaurants,722511,Full-Service Restaurants
+2,Bakeries/Coffee/Snacks,1,Restaurants,11,5812,Eating Places,581210,Bakeries/Coffee/Snacks,20389907.0,"Snacks, incl. onion rings, cheese sticks, etc.",722513,Limited-Service Restaurants
+40,Bar & Grill/Pub,1,Restaurants,11,5813,Drinking Places,581300,Bar & Grill/Pub,25410101.0,"Bar fixtures, wood",722410,Drinking Places (Alcoholic Beverages)
+3,BBQ,1,Restaurants,11,5812,Eating Places,581200,BBQ Restaurants,58120500.0,Family restaurants,722511,Full-Service Restaurants
+44,Breakfast/Brunch,1,Restaurants,11,5812,Eating Places,581200,Breakfast/Brunch Restaurants,20430000.0,Cereal breakfast foods,722511,Full-Service Restaurants
+75,Brewery/Distillery,1,Restaurants,11,2082,Malt Beverages,208200,Brewery/Distillery,35560402.0,Distillery machinery,312120,Breweries
+50,Buffet,1,Restaurants,11,5812,Eating Places,581200,Buffet Restaurants,58129901.0,Buffet (eating places),722511,Full-Service Restaurants
+76,Casino/Gaming,1,Restaurants,11,7999,Amusement and Recreation Services NEC,799900,Casino/Gaming,70110301.0,Casino hotel,713210,Casinos (except Casino Hotels)
+51,Caterer,1,Restaurants,11,5812,Eating Places,581200,Catering Services,7119901.0,Fertilizer application services,722320,Caterers
+5,Chicken,1,Restaurants,11,5812,Eating Places,581200,Chicken Restaurants,2520000.0,Chicken eggs,722513,Limited-Service Restaurants
+77,Cocktail Lounges/Taverns,1,Restaurants,11,5813,Drinking Places,581300,Cocktail Lounges/Taverns,20870202.0,"Cocktail mixes, nonalcoholic",722410,Drinking Places (Alcoholic Beverages)
+52,Drive-Ins/Drive Thru,1,Restaurants,11,5812,Eating Places,581200,Drive-In Restaurants,73899914.0,Drive-a-way automobile service,722513,Limited-Service Restaurants
+53,Family Restaurant,1,Restaurants,11,5812,Eating Places,581200,Family Restaurants,58120500.0,Family restaurants,722511,Full-Service Restaurants
+54,Fast Food/Take Out,1,Restaurants,11,5812,Eating Places,581200,Fast Food Restaurants,58120300.0,Fast food restaurants and stands,722513,Limited-Service Restaurants
+55,Fine Dining,1,Restaurants,11,5812,Eating Places,581200,Fine Dining Restaurants,26219901.0,Fine paper,722511,Full-Service Restaurants
+56,Food Trucks,1,Restaurants,11,5812,Eating Places,581200,Mobile Food Services,87420407.0,Restaurant and food services consultants,722330,Mobile Food Services
+57,Franchise Restaurant,1,Restaurants,11,5812,Eating Places,581200,Franchise Restaurants,58120600.0,Pizza restaurants,722511,Full-Service Restaurants
+45,International/Ethnic,1,Restaurants,11,5812,Eating Places,581200,International/Ethnic Restaurants,20320200.0,"Ethnic foods, canned, jarred, etc.",722511,Full-Service Restaurants
+38,Latin American,1,Restaurants,11,5812,Eating Places,581200,Latin American Restaurants,58120101.0,American restaurant,722511,Full-Service Restaurants
+35,Local,1,Restaurants,11,5812,Eating Places,581200,Local Restaurants,41110000.0,Local and suburban transit,722511,Full-Service Restaurants
+62,Mexican,1,Restaurants,11,5812,Eating Places,581200,Mexican Restaurants,20320208.0,"Mexican foods, nec: packaged in cans, jars, etc.",722511,Full-Service Restaurants
+68,Organic/Vegetarian,1,Restaurants,11,5812,Eating Places,581200,Organic/Vegetarian Restaurants,28240000.0,"Organic fibers, noncellulosic",722511,Full-Service Restaurants
+15,Pizza/Italian,1,Restaurants,11,5812,Eating Places,581200,Pizza/Italian Restaurants,58120600.0,Pizza restaurants,722513,Limited-Service Restaurants
+69,Ramen,1,Restaurants,11,5812,Eating Places,581200,Ramen Restaurants,58120500.0,Family restaurants,722511,Full-Service Restaurants
+7,Sandwiches/Soups/Salads/Deli,1,Restaurants,11,5812,Eating Places,581200,Sandwich/Deli Shops,20139918.0,"Spreads, sandwich: meat, from purchased meat",722513,Limited-Service Restaurants
+70,Sports Bar,1,Restaurants,11,5813,Drinking Places,581300,Sports Bar,23210200.0,Men's and boys' sports and polo shirts,722410,Drinking Places (Alcoholic Beverages)
+4,Steak/Seafood,1,Restaurants,11,5812,Eating Places,581200,Steak/Seafood Restaurants,58120700.0,Seafood restaurants,722511,Full-Service Restaurants
+71,Sushi,1,Restaurants,11,5812,Eating Places,581200,Sushi Restaurants,58120114.0,Sushi bar,722511,Full-Service Restaurants
+72,Wine Bar,1,Restaurants,11,5813,Drinking Places,581300,Wine Bar,58130106.0,Wine bar,722410,Drinking Places (Alcoholic Beverages)
+73,Winery,1,Restaurants,11,2084,"Wines, Brandy, and Brandy Spirits",208400,Winery,51820100.0,Wine,312130,Wineries
+243,Adult Store,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Adult Store,17519904.0,Store fixture installation,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores)
+244,Alternative Medicine,4,Retail,11,5499,Miscellaneous Food Stores,549900,Alternative Medicine,25149905.0,Medicine cabinets and vanities: metal,446199,All Other Health and Personal Care Stores
+245,Antiques,4,Retail,11,5932,Used Merchandise Stores,593200,Antiques,50990700.0,"Antiques, souvenirs, and novelties",453310,Used Merchandise Stores
+217,Apparel,4,Retail,11,5651,Family Clothing Stores,565100,Apparel Stores,56990000.0,Miscellaneous apparel and accessory stores,448140,Family Clothing Stores
+246,Art Gallery,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Art Gallery,84120100.0,Art gallery,453920,Art Dealers
+247,Arts & Crafts,4,Retail,11,5945,"Hobby, Toy, and Game Shops",594500,Arts & Crafts,79991101.0,Arts and crafts instruction,451120,"Hobby, Toy, and Game Stores"
+248,Baby/Children,4,Retail,11,5641,Children's and Infants' Wear Stores,564100,Baby/Children,20230100.0,Baby formulas,448130,Children's and Infants' Clothing Stores
+249,Barber,4,Retail,11,7241,Barber Shops,724100,Barber,72419901.0,Barber college,812111,Barber Shops
+250,Bath & Body,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Bath & Body,22530503.0,"Body stockings, knit",446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+218,Beauty Salon,4,Retail,11,7231,Beauty Shops,723100,Beauty Salon,50870100.0,Beauty salon and barber shop equipment and supplies,812112,Beauty Salons
+251,Beauty Supply,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Beauty Supply,36770104.0,"Transformers power supply, electronic type",446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+252,Bicycle Shop,4,Retail,11,5941,Sporting Goods Stores and Bicycle Shops,594199,Bicycle Shop,76990901.0,Bicycle repair shop,451110,Sporting Goods Stores
+219,Books,4,Retail,11,5942,Book Stores,594200,Book Stores,59320300.0,"Book stores, secondhand",451211,Book Stores
+253,Boutique,4,Retail,11,5621,Women's Clothing Stores,562100,Boutique,56210000.0,Women's clothing stores,448120,Women's Clothing Stores
+254,Bridal,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Bridal,59490101.0,Bridal fabrics,448190,Other Clothing Stores
+315,Carpet & Rug,4,Retail,11,5713,Floor Covering Stores,571300,Carpet & Rug,22810400.0,"Carpet and rug yarn, spun",442210,Floor Covering Stores
+255,Cell Phone Repair,4,Retail,11,7629,Electrical and Electronic Repair Shops NEC,762900,Cell Phone Repair,26790902.0,"Fuel cell forms, cardboard: made from purchased material",811213,Communication Equipment Repair and Maintenance
+242,Clothing,4,Retail,11,5651,Family Clothing Stores,565100,Clothing,23260000.0,Men's and boy's work clothing,448140,Family Clothing Stores
+256,Collectibles,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Collectibles,59610400.0,"Stamps, coins, and other collectibles, mail order",453998,All Other Miscellaneous Store Retailers (except Tobacco Stores)
+257,Comic Book Store,4,Retail,11,5942,Book Stores,594200,Comic Book Store,51929905.0,Comic books,451211,Book Stores
+258,Computer Store,4,Retail,11,5734,Computer and Computer Software Stores,573400,Computer Store,17310102.0,Computer power conditioning,443142,Electronics Stores
+220,Convenience,4,Retail,11,5411,Grocery Stores,541100,Convenience Stores,54110200.0,Convenience stores,445120,Convenience Stores
+259,Copy & Print,4,Retail,11,7334,Photocopying and Duplicating Services,733400,Copy & Print,22119919.0,"Print cloths, cotton",561439,Other Business Service Centers (including Copy Shops)
+260,Cosmetics,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Cosmetics,28440000.0,"Perfumes, cosmetics and other toilet preparations",446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+261,Costume,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Costume,39610200.0,Costume novelties,448190,Other Clothing Stores
+221,Department Store,4,Retail,11,5311,Department Stores,531100,Department Store,37110403.0,"Fire department vehicles (motor vehicles), assembly of",452111,Department Stores (except Discount Department Stores)
+262,Discount Store,4,Retail,11,5331,Variety Stores,533100,Discount Store,17519904.0,Store fixture installation,452112,Discount Department Stores
+263,Dollar Store,4,Retail,11,5331,Variety Stores,533100,Dollar Store,17519904.0,Store fixture installation,452990,All Other General Merchandise Stores
+264,Dry Cleaners,4,Retail,11,7216,"Dry Cleaning Plants, Except Rug Cleaning",721600,Dry Cleaners,28420104.0,Drain pipe solvents or cleaners,812320,Drycleaning and Laundry Services (except Coin-Operated)
+316,E-Cigarettes,4,Retail,11,5993,Tobacco Stores and Stands,599300,E-Cigarettes,21110000.0,Cigarettes,453991,Tobacco Stores
+222,Electronics,4,Retail,11,5731,"Radio, Television, and Consumer Electronics Stores",573100,Electronics,38250107.0,"Internal combustion engine analyzers, to test electronics",443142,Electronics Stores
+223,Eyewear,4,Retail,11,5995,Optical Goods Stores,599500,Eyewear,59950000.0,Optical goods stores,446130,Optical Goods Stores
+265,Fabric Store,4,Retail,11,5949,"Sewing, Needlework, and Piece Goods Stores",594900,Fabric Store,22110000.0,"Broadwoven fabric mills, cotton",451130,"Sewing, Needlework, and Piece Goods Stores"
+317,Fishmarket/Butcher,4,Retail,11,5421,Meat and Fish (Seafood) Markets,542100,Fishmarket/Butcher,72999912.0,"Butcher service, processing only - does not sell meat",445210,Meat Markets
+266,Floor Covering,4,Retail,11,5713,Floor Covering Stores,571300,Floor Covering,57139905.0,Vinyl floor covering,442210,Floor Covering Stores
+318,Flooring,4,Retail,11,5713,Floor Covering Stores,571300,Flooring,17529901.0,Access flooring system installation,442210,Floor Covering Stores
+224,Flowers/Nursery,4,Retail,11,5992,Florists,599200,Flowers/Nursery,51930200.0,Flowers and nursery stock,453110,Florists
+267,Formal Wear,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Formal Wear,56999904.0,Formal wear,448190,Other Clothing Stores
+268,Framing,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Framing,17519901.0,Framing contractor,453930,Manufactured (Mobile) Home Dealers
+225,Furniture,4,Retail,11,5712,Furniture Stores,571200,Furniture,22110606.0,Furniture denim,442110,Furniture Stores
+269,Gaming Store,4,Retail,11,5945,"Hobby, Toy, and Game Shops",594500,Gaming Store,17519904.0,Store fixture installation,451120,"Hobby, Toy, and Game Stores"
+226,Gift Shops,4,Retail,11,5947,"Gift, Novelty, and Souvenir Shops",594700,Gift Shops,39990802.0,"Boutiquing: decorating gift items with sequins, fruit, etc.",453220,"Gift, Novelty, and Souvenir Stores"
+227,Grocery/Supermarket,4,Retail,11,5411,Grocery Stores,541100,Grocery/Supermarket,30890210.0,"Holders: paper towel, grocery bag, etc.: plastics",445110,Supermarkets and Other Grocery (except Convenience) Stores
+270,Gun Shop,4,Retail,11,5941,Sporting Goods Stores and Bicycle Shops,594199,Gun Shop,24260301.0,"Gun stocks, wood",451110,Sporting Goods Stores
+271,Hair Salon,4,Retail,11,7231,Beauty Shops,723100,Hair Salon,28440100.0,"Hair preparations, including shampoos",812112,Beauty Salons
+272,Handbags,4,Retail,11,5948,Luggage and Leather Goods Stores,594800,Handbags,31720103.0,"Handbags, regardless of material: men's",448320,Luggage and Leather Goods Stores
+228,Hardware/Home Improvement,4,Retail,11,5251,Hardware Stores,525100,Hardware/Home Improvement,72999906.0,Home improvement and renovation contractor agency,444110,Home Centers
+273,Health Food,4,Retail,11,5499,Miscellaneous Food Stores,549900,Health Food,58129909.0,Health food restaurant,446191,Food (Health) Supplement Stores
+274,Hearing Aids,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Hearing Aids,38420412.0,Hearing aids,446199,All Other Health and Personal Care Stores
+275,Hobby Store,4,Retail,11,5945,"Hobby, Toy, and Game Shops",594500,Hobby Store,39449908.0,Hobby horses,451120,"Hobby, Toy, and Game Stores"
+276,Home Decor,4,Retail,11,5719,Miscellaneous Home Furnishings Stores,571900,Home Decor,28440103.0,Home permanent kits,442299,All Other Home Furnishings Stores
+277,Hunting & Fishing,4,Retail,11,5941,Sporting Goods Stores and Bicycle Shops,594199,Hunting & Fishing,9199905.0,Seal hunting,451110,Sporting Goods Stores
+229,Jewelry,4,Retail,11,5944,Jewelry Stores,594400,Jewelry,31720203.0,"Cases, jewelry",448310,Jewelry Stores
+278,Kitchen & Bath,4,Retail,11,5713,Floor Covering Stores,571399,Kitchen & Bath,23920505.0,Washcloths and bath mitts: made from purchased materials,444220,"Nursery, Garden Center, and Farm Supply Stores"
+279,Laundromat,4,Retail,11,7215,Coin-Operated Laundry and Drycleaning,721500,Laundromat,72150000.0,Coin-operated laundries and cleaning,812310,Coin-Operated Laundries and Drycleaners
+280,Leather Goods,4,Retail,11,5948,Luggage and Leather Goods Stores,594800,Leather Goods,31990000.0,"Leather goods, nec",448320,Luggage and Leather Goods Stores
+281,Lingerie,4,Retail,11,5621,Women's Clothing Stores,562199,Lingerie,51370202.0,Lingerie,448120,Women's Clothing Stores
+230,Liquor Store,4,Retail,11,5921,Liquor Stores,592100,Liquor Store,28730101.0,Ammonia liquor,445310,"Beer, Wine, and Liquor Stores"
+282,Luggage,4,Retail,11,5948,Luggage and Leather Goods Stores,594800,Luggage,22111110.0,"Luggage fabrics, cotton",448320,Luggage and Leather Goods Stores
+283,Massage,4,Retail,11,7299,Miscellaneous Personal Services,729900,Massage,72990201.0,Massage parlor,812199,Other Personal Care Services
+231,Mattress,4,Retail,11,5712,Furniture Stores,571299,Mattress,23920604.0,Mattress pads,442110,Furniture Stores
+232,Mobile Phones,4,Retail,11,5731,"Radio, Television, and Consumer Electronics Stores",573199,Mobile Phones,24510202.0,Mobile classrooms,443142,Electronics Stores
+284,Motorcycle Gear,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Motorcycle Gear,34620100.0,Gear and chain forgings,448190,Other Clothing Stores
+233,Music Store,4,Retail,11,5736,Musical Instrument Stores,573600,Music Store,39310102.0,Autophones (organs with perforated music rolls),451140,Musical Instrument and Supplies Stores
+285,Nails,4,Retail,11,7231,Beauty Shops,723199,Nails,33150200.0,"Nails, spikes, brads, and similar items",812113,Nail Salons
+286,Nutrition,4,Retail,11,5499,Miscellaneous Food Stores,549900,Nutrition,80490100.0,Nutrition specialist,446191,Food (Health) Supplement Stores
+234,Office Supplies,4,Retail,11,5943,Stationery and Office Supplies Stores,594300,Office Supplies,51129907.0,"Office supplies, nec",453210,Office Supplies and Stationery Stores
+287,Optical,4,Retail,11,5995,Optical Goods Stores,599500,Optical,30899915.0,"Lenses, except optical: plastics",446130,Optical Goods Stores
+288,Outdoor Gear,4,Retail,11,5941,Sporting Goods Stores and Bicycle Shops,594199,Outdoor Gear,34620100.0,Gear and chain forgings,451110,Sporting Goods Stores
+289,Party Supplies,4,Retail,11,5947,"Gift, Novelty, and Souvenir Shops",594700,Party Supplies,73590600.0,Party supplies rental services,453220,"Gift, Novelty, and Souvenir Stores"
+235,Pawn Shop,4,Retail,11,5932,Used Merchandise Stores,593200,Pawn Shop,34430000.0,Fabricated plate work (boiler shop),522298,All Other Non-Depository Credit Intermediation
+290,Perfume,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Perfume,28440302.0,"Concentrates, perfume",446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+236,Pet Store,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Pet Store,38450117.0,Position emission tomography (PET scanner),453910,Pet and Pet Supplies Stores
+319,Phones/Wireless,4,Retail,11,5731,"Radio, Television, and Consumer Electronics Stores",573199,Phones/Wireless,59610200.0,"Computer equipment and electronics, mail order",443142,Electronics Stores
+291,Photography,4,Retail,11,7384,Photofinishing Laboratories,738400,Photography,48999902.0,Missile tracking by telemetry and photography,812921,Photofinishing Laboratories
+292,Piercing,4,Retail,11,7299,Miscellaneous Personal Services,729900,Piercing,80529902.0,Personal care facility,812199,Other Personal Care Services
+293,Plumbing Supply,4,Retail,11,5074,Plumbing and Heating Equipment and Supplies,507400,Plumbing Supply,17110000.0,"Plumbing, heating, air-conditioning",444190,Other Building Material Dealers
+320,Plus Size,4,Retail,11,5621,Women's Clothing Stores,562199,Plus Size,38210117.0,"Particle size reduction apparatus, laboratory",448120,Women's Clothing Stores
+321,Pool & Spa,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Pool & Spa,51699913.0,Swimming pool and spa chemicals,453998,All Other Miscellaneous Store Retailers (except Tobacco Stores)
+294,Religious Articles,4,Retail,11,5947,"Gift, Novelty, and Souvenir Shops",594799,Religious Articles,39110109.0,"Rosaries or other small religious articles, precious metal",453220,"Gift, Novelty, and Souvenir Stores"
+295,Rental,4,Retail,11,7359,Equipment Rental and Leasing NEC,735900,Rental,41190101.0,"Automobile rental, with driver",532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+296,Salon,4,Retail,11,7231,Beauty Shops,723100,Salon,79910202.0,Slenderizing salon,812112,Beauty Salons
+297,Scrapbooking,4,Retail,11,5945,"Hobby, Toy, and Game Shops",594500,Scrapbooking,59450000.0,"Hobby, toy, and game shops",451120,"Hobby, Toy, and Game Stores"
+298,Sewing,4,Retail,11,5949,"Sewing, Needlework, and Piece Goods Stores",594900,Sewing,22840305.0,Sewing thread,451130,"Sewing, Needlework, and Piece Goods Stores"
+237,Shoe Store,4,Retail,11,5661,Shoe Stores,566100,Shoe Store,22110211.0,Shoe fabrics,448210,Shoe Stores
+322,Smoking Accessories,4,Retail,11,5993,Tobacco Stores and Stands,599300,Smoking Accessories,30691200.0,Rubber smoking accessories,453991,Tobacco Stores
+299,Spa,4,Retail,11,7299,Miscellaneous Personal Services,729900,Spa,17990104.0,Spa or hot tub installation or construction,812199,Other Personal Care Services
+238,Sporting Goods,4,Retail,11,5941,Sporting Goods Stores and Bicycle Shops,594100,Sporting Goods,50919909.0,"Sharpeners, sporting goods",451110,Sporting Goods Stores
+300,Stationery,4,Retail,11,5943,Stationery and Office Supplies Stores,594300,Stationery,26780000.0,Stationery products,453210,Office Supplies and Stationery Stores
+301,Supplements,4,Retail,11,5499,Miscellaneous Food Stores,549900,Supplements,20489907.0,Feed supplements,446191,Food (Health) Supplement Stores
+302,Surplus,4,Retail,11,5932,Used Merchandise Stores,593200,Surplus,53999905.0,Surplus and salvage stores,453310,Used Merchandise Stores
+323,Swimwear,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Swimwear,22530101.0,"Bathing suits and swimwear, knit",448190,Other Clothing Stores
+303,Tanning,4,Retail,11,7299,Miscellaneous Personal Services,729900,Tanning,28199904.0,"Tanning agents, synthetic inorganic",812199,Other Personal Care Services
+304,Tattoo,4,Retail,11,7299,Miscellaneous Personal Services,729900,Tattoo,72990106.0,Tattoo parlor,812199,Other Personal Care Services
+239,Thrift Store,4,Retail,11,5932,Used Merchandise Stores,593200,Thrift Store,17519904.0,Store fixture installation,453310,Used Merchandise Stores
+240,Tobacco,4,Retail,11,5993,Tobacco Stores and Stands,599300,Tobacco,1320000.0,Tobacco,453991,Tobacco Stores
+241,Toy Store,4,Retail,11,5945,"Hobby, Toy, and Game Shops",594500,Toy Store,28990401.0,"Caps, for toy pistols",451120,"Hobby, Toy, and Game Stores"
+305,Trophy Shop,4,Retail,11,3999,Manufacturing Industries NEC,399900,Trophy Shop,24999914.0,"Trophy bases, wood",339950,Sign Manufacturing
+306,Uniform,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Uniform,23219902.0,Uniform shirts: made from purchased materials,448190,Other Clothing Stores
+307,Used Goods,4,Retail,11,5932,Used Merchandise Stores,593200,Used Goods,28190910.0,"Lead compounds or salts, inorganic, not used in pigments",453310,Used Merchandise Stores
+308,Vape Shop,4,Retail,11,5993,Tobacco Stores and Stands,599300,Vape Shop,34430000.0,Fabricated plate work (boiler shop),453991,Tobacco Stores
+309,Video Store,4,Retail,11,7841,Video Tape Rental,784100,Video Store,39440203.0,"Video game machines, except coin-operated",532230,Video Tape and Disc Rental
+310,Vintage,4,Retail,11,5932,Used Merchandise Stores,593200,Vintage,59320000.0,Used merchandise stores,453310,Used Merchandise Stores
+311,Watch Repair,4,Retail,11,7631,"Watch, Clock, and Jewelry Repair",763100,Watch Repair,76310102.0,Watch repair,811490,Other Personal and Household Goods Repair and Maintenance
+324,Wedding,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Wedding,23350102.0,Wedding gowns and dresses,448190,Other Clothing Stores
+312,Western Wear,4,Retail,11,5699,Miscellaneous Apparel and Accessory Stores,569900,Western Wear,22530200.0,Cold weather knit outerwear including ski wear,448190,Other Clothing Stores
+325,Wholesaler,4,Retail,11,5099,Durable Goods NEC,509900,Wholesaler,51990000.0,"Nondurable goods, nec",424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+313,Wig Shop,4,Retail,11,5999,Miscellaneous Retail Stores NEC,599999,Wig Shop,34430000.0,Fabricated plate work (boiler shop),446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+314,Women's Clothing,4,Retail,11,5621,Women's Clothing Stores,562100,Women's Clothing,56210000.0,Women's clothing stores,448120,Women's Clothing Stores
+348,Adventure Sports,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Adventure Sports,23210200.0,Men's and boys' sports and polo shirts,713990,All Other Amusement and Recreation Industries
+338,Athletic Clubs,5,Sports & Recreation,11,7997,Membership Sports and Recreation Clubs,799700,Athletic Clubs,23290300.0,Men's and boys' athletic uniforms,713940,Fitness and Recreational Sports Centers
+349,Baseball Batting Cages,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Baseball Batting Cages,79999903.0,Baseball batting cage,713990,All Other Amusement and Recreation Industries
+339,Baseball/Softball,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Baseball/Softball,39491100.0,"Baseball, softball, and cricket sports equipment",711211,Sports Teams and Clubs
+340,Basketball,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Basketball,23290302.0,"Basketball uniforms: men's, youths', and boys'",711211,Sports Teams and Clubs
+350,Billiards,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Billiards,79330000.0,Bowling centers,713950,Bowling Centers
+326,Bowling,5,Sports & Recreation,11,7933,Bowling Centers,793300,Bowling,17990101.0,Bowling alley installation,713950,Bowling Centers
+351,Boxing,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Boxing,39499906.0,"Gloves, sport and athletic: boxing, handball, etc.",713940,Fitness and Recreational Sports Centers
+352,Cheerleading,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Cheerleading,79970000.0,Membership sports and recreation clubs,611620,Sports and Recreation Instruction
+353,Coaching,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Coaching,79970000.0,Membership sports and recreation clubs,611620,Sports and Recreation Instruction
+327,Country Club/Golf,5,Sports & Recreation,11,7992,Public Golf Courses,799200,Country Club/Golf,79979904.0,"Country club, membership",713910,Golf Courses and Country Clubs
+354,Cycling,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Cycling,48320204.0,Sports,713940,Fitness and Recreational Sports Centers
+328,Dance Studios,5,Sports & Recreation,3,7911,"Dance Studios, Schools, and Halls",792209,Dance Companies,79110101.0,Dance hall or ballroom operation,611610,Fine Arts Schools
+355,Equestrian,5,Sports & Recreation,11,7948,"Racing, Including Track Operation",794800,Equestrian,51910400.0,Equestrian equipment,711212,Racetracks
+356,Extreme Sports,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Extreme Sports,23210200.0,Men's and boys' sports and polo shirts,713990,All Other Amusement and Recreation Industries
+357,Fishing,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Fishing,9190100.0,Whale fishing and whale products,713990,All Other Amusement and Recreation Industries
+377,Fishing Charters,5,Sports & Recreation,11,4499,Water Transportation Services NEC,449900,Fishing Charters,9190100.0,Whale fishing and whale products,487210,"Scenic and Sightseeing Transportation, Water"
+329,Fitness Centers/Gyms,5,Sports & Recreation,11,7991,Physical Fitness Facilities,799100,Fitness Centers/Gyms,79991127.0,Physical fitness instruction,713940,Fitness and Recreational Sports Centers
+341,Football,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Football,23290303.0,"Football uniforms: men's, youths', and boys'",711211,Sports Teams and Clubs
+358,Golf Courses,5,Sports & Recreation,11,7992,Public Golf Courses,799200,Golf Courses,79920000.0,Public golf courses,713910,Golf Courses and Country Clubs
+359,Gymnastics,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Gymnastics,79970000.0,Membership sports and recreation clubs,611620,Sports and Recreation Instruction
+342,Hockey,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Hockey,23290304.0,"Hockey uniforms: men's, youths', and boys'",711211,Sports Teams and Clubs
+360,Hunting,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Hunting,9199905.0,Seal hunting,713990,All Other Amusement and Recreation Industries
+330,Ice Skating,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Ice Skating,79990602.0,Ice skating rink operation,713940,Fitness and Recreational Sports Centers
+361,Lacrosse,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Lacrosse,39490903.0,"Rackets and frames: tennis, badminton, squash, lacrosse, etc",711211,Sports Teams and Clubs
+331,Martial Arts,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Martial Arts,79991113.0,"Martial arts school, nec",611620,Sports and Recreation Instruction
+362,Miniature Golf,5,Sports & Recreation,11,7993,Coin-Operated Amusement Devices,799300,Miniature Golf,79990205.0,Miniature golf course operation,713110,Amusement and Theme Parks
+363,Motorsports,5,Sports & Recreation,11,7948,"Racing, Including Track Operation",794800,Motorsports,50910703.0,Motorboats,711212,Racetracks
+364,Outdoor Recreation,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Outdoor Recreation,24210400.0,Outdoor wood structural products,713990,All Other Amusement and Recreation Industries
+365,Personal Training,5,Sports & Recreation,11,7991,Physical Fitness Facilities,799100,Personal Training,28449902.0,"Deodorants, personal",713940,Fitness and Recreational Sports Centers
+332,Pool Halls,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Pool Halls,39490804.0,"Bridges, billiard and pool",713950,Bowling Centers
+366,Racquet Sports,5,Sports & Recreation,11,7997,Membership Sports and Recreation Clubs,799700,Racquet Sports,50919908.0,Racquet sports equipment and supplies,713940,Fitness and Recreational Sports Centers
+367,Recreation Centers,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Recreation Centers,50120305.0,"Recreation vehicles, all-terrain",713940,Fitness and Recreational Sports Centers
+368,Rodeo,5,Sports & Recreation,11,7948,"Racing, Including Track Operation",794800,Rodeo,79991204.0,Rodeo operation,711219,Other Spectator Sports
+369,Running,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Running,13899918.0,"Running, cutting, and pulling casings, tubes and rods",713940,Fitness and Recreational Sports Centers
+333,Skating Rinks,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Skating Rinks,79990601.0,Curling rinks,713940,Fitness and Recreational Sports Centers
+370,Skiing/Snowboarding,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Skiing/Snowboarding,50910202.0,Skiing equipment,713920,Skiing Facilities
+343,Soccer,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Soccer,59410705.0,Soccer supplies,711211,Sports Teams and Clubs
+371,Sports Camps,5,Sports & Recreation,11,7032,Sporting and Recreational Camps,703200,Sports Camps,79991120.0,"Sports instruction, schools and camps",721214,Recreation and Vacation Camps (except Campgrounds)
+372,Sports Leagues,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Sports Leagues,23210200.0,Men's and boys' sports and polo shirts,711211,Sports Teams and Clubs
+373,Surfing,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Surfing,79991121.0,Surfing instruction,713990,All Other Amusement and Recreation Industries
+334,Swim & Tennis Clubs,5,Sports & Recreation,11,7997,Membership Sports and Recreation Clubs,799700,Swim & Tennis Clubs,23390308.0,"Skirts, tennis",713940,Fitness and Recreational Sports Centers
+335,Swimming Pools,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Swimming Pools,59991205.0,"Swimming pools, above ground",713940,Fitness and Recreational Sports Centers
+344,Tennis,5,Sports & Recreation,11,7997,Membership Sports and Recreation Clubs,799700,Tennis,23390308.0,"Skirts, tennis",713940,Fitness and Recreational Sports Centers
+345,Track & Field,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Track & Field,39499914.0,Track and field athletic equipment,711211,Sports Teams and Clubs
+346,Volleyball,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Volleyball,39490902.0,"Nets: badminton, volleyball, tennis, etc.",711211,Sports Teams and Clubs
+374,Water Sports,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Water Sports,39490600.0,Water sports equipment,713990,All Other Amusement and Recreation Industries
+375,Weights/Powerlifting,5,Sports & Recreation,11,7991,Physical Fitness Facilities,799100,Weights/Powerlifting,48320204.0,Sports,713940,Fitness and Recreational Sports Centers
+376,Windsurfing,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Windsurfing,59410503.0,Windsurfing and sailboarding equipment,713990,All Other Amusement and Recreation Industries
+347,Wrestling,5,Sports & Recreation,11,7999,Amusement and Recreation Services NEC,799900,Wrestling,79410201.0,Boxing and wrestling arena,711211,Sports Teams and Clubs
+336,Yoga Studio,5,Sports & Recreation,11,7991,Physical Fitness Facilities,799100,Yoga Studio,25150303.0,Studio couches,713940,Fitness and Recreational Sports Centers
+337,Youth Centers,5,Sports & Recreation,11,8641,"Civic, Social, and Fraternal Associations",864100,Youth Centers,83220205.0,Youth center,624110,Child and Youth Services
